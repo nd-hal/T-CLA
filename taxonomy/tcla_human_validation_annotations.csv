@@ -1,0 +1,1831 @@
+annotator_id,item_id,annotator_label,gold_label
+A01,LQ1,Loan Words,Loan Words
+A02,LQ1,Loan Words,Loan Words
+A03,LQ1,Loan Words,Loan Words
+A04,LQ1,Loan Words,Loan Words
+A05,LQ1,Loan Words,Loan Words
+A06,LQ1,Loan Words,Loan Words
+A07,LQ1,Loan Words,Loan Words
+A08,LQ1,Loan Words,Loan Words
+A09,LQ1,Loan Words,Loan Words
+A10,LQ1,Loan Words,Loan Words
+A11,LQ1,Loan Words,Loan Words
+A01,LQ4,Loan Words,Loan Words
+A02,LQ4,Standard Swahili,Loan Words
+A03,LQ4,Loan Words,Loan Words
+A04,LQ4,Standard Swahili,Loan Words
+A05,LQ4,Sheng,Loan Words
+A06,LQ4,Standard Swahili,Loan Words
+A07,LQ4,Standard Swahili,Loan Words
+A08,LQ4,Standard Swahili,Loan Words
+A09,LQ4,Loan Words,Loan Words
+A10,LQ4,Standard Swahili,Loan Words
+A11,LQ4,Standard Swahili,Loan Words
+A01,CQ8,Code-Mixing,Code-Mixing
+A02,CQ8,Code-Mixing,Code-Mixing
+A03,CQ8,Code-Mixing,Code-Mixing
+A04,CQ8,Code-Mixing,Code-Mixing
+A05,CQ8,Code-Mixing,Code-Mixing
+A06,CQ8,Code-Mixing,Code-Mixing
+A07,CQ8,Code-Mixing,Code-Mixing
+A08,CQ8,Code-Mixing,Code-Mixing
+A09,CQ8,Code-Mixing,Code-Mixing
+A10,CQ8,Code-Mixing,Code-Mixing
+A11,CQ8,Code-Mixing,Code-Mixing
+A01,SQ3,Sheng,Sheng
+A02,SQ3,Sheng,Sheng
+A03,SQ3,Sheng,Sheng
+A04,SQ3,Sheng,Sheng
+A05,SQ3,Sheng,Sheng
+A06,SQ3,Sheng,Sheng
+A07,SQ3,Sheng,Sheng
+A08,SQ3,Sheng,Sheng
+A09,SQ3,Sheng,Sheng
+A10,SQ3,Sheng,Sheng
+A11,SQ3,Sheng,Sheng
+A01,TQ11,Tribal Lexicons,Tribal Lexicons
+A02,TQ11,Tribal Lexicons,Tribal Lexicons
+A03,TQ11,Tribal Lexicons,Tribal Lexicons
+A04,TQ11,Tribal Lexicons,Tribal Lexicons
+A05,TQ11,Tribal Lexicons,Tribal Lexicons
+A06,TQ11,Standard Swahili,Tribal Lexicons
+A07,TQ11,Standard Swahili,Tribal Lexicons
+A08,TQ11,Tribal Lexicons,Tribal Lexicons
+A09,TQ11,Tribal Lexicons,Tribal Lexicons
+A10,TQ11,Tribal Lexicons,Tribal Lexicons
+A11,TQ11,Standard Swahili,Tribal Lexicons
+A01,LQ42,Loan Words,Loan Words
+A02,LQ42,Loan Words,Loan Words
+A03,LQ42,Sheng,Loan Words
+A04,LQ42,Loan Words,Loan Words
+A05,LQ42,Loan Words,Loan Words
+A06,LQ42,Loan Words,Loan Words
+A07,LQ42,Tribal Lexicons,Loan Words
+A08,LQ42,Loan Words,Loan Words
+A09,LQ42,Loan Words,Loan Words
+A10,LQ42,Sheng,Loan Words
+A11,LQ42,Loan Words,Loan Words
+A01,TQ27,Tribal Lexicons,Tribal Lexicons
+A02,TQ27,Tribal Lexicons,Tribal Lexicons
+A03,TQ27,Tribal Lexicons,Tribal Lexicons
+A04,TQ27,Tribal Lexicons,Tribal Lexicons
+A05,TQ27,Tribal Lexicons,Tribal Lexicons
+A06,TQ27,Tribal Lexicons,Tribal Lexicons
+A07,TQ27,Tribal Lexicons,Tribal Lexicons
+A08,TQ27,Tribal Lexicons,Tribal Lexicons
+A09,TQ27,Tribal Lexicons,Tribal Lexicons
+A10,TQ27,Tribal Lexicons,Tribal Lexicons
+A11,TQ27,Tribal Lexicons,Tribal Lexicons
+A01,CQ19,Loan Words,Code-Mixing
+A02,CQ19,Loan Words,Code-Mixing
+A03,CQ19,Code-Mixing,Code-Mixing
+A04,CQ19,Loan Words,Code-Mixing
+A05,CQ19,Loan Words,Code-Mixing
+A06,CQ19,Loan Words,Code-Mixing
+A07,CQ19,Loan Words,Code-Mixing
+A08,CQ19,Code-Mixing,Code-Mixing
+A09,CQ19,Code-Mixing,Code-Mixing
+A10,CQ19,Code-Mixing,Code-Mixing
+A11,CQ19,Loan Words,Code-Mixing
+A01,CQ37,Code-Mixing,Code-Mixing
+A02,CQ37,Code-Mixing,Code-Mixing
+A03,CQ37,Code-Mixing,Code-Mixing
+A04,CQ37,Code-Mixing,Code-Mixing
+A05,CQ37,Code-Mixing,Code-Mixing
+A06,CQ37,Code-Mixing,Code-Mixing
+A07,CQ37,Code-Mixing,Code-Mixing
+A08,CQ37,Code-Mixing,Code-Mixing
+A09,CQ37,Code-Mixing,Code-Mixing
+A10,CQ37,Code-Mixing,Code-Mixing
+A11,CQ37,Code-Mixing,Code-Mixing
+A01,LQ20,Loan Words,Loan Words
+A02,LQ20,Code-Mixing,Loan Words
+A03,LQ20,Loan Words,Loan Words
+A04,LQ20,Loan Words,Loan Words
+A05,LQ20,Loan Words,Loan Words
+A06,LQ20,Loan Words,Loan Words
+A07,LQ20,Loan Words,Loan Words
+A08,LQ20,Loan Words,Loan Words
+A09,LQ20,Loan Words,Loan Words
+A10,LQ20,Loan Words,Loan Words
+A11,LQ20,Loan Words,Loan Words
+A12,TQ4,Standard Swahili,Tribal Lexicons
+A13,TQ4,Tribal Lexicons,Tribal Lexicons
+A14,TQ4,Tribal Lexicons,Tribal Lexicons
+A15,TQ4,Tribal Lexicons,Tribal Lexicons
+A16,TQ4,Tribal Lexicons,Tribal Lexicons
+A17,TQ4,Tribal Lexicons,Tribal Lexicons
+A18,TQ4,Tribal Lexicons,Tribal Lexicons
+A19,TQ4,Tribal Lexicons,Tribal Lexicons
+A20,TQ4,Tribal Lexicons,Tribal Lexicons
+A21,TQ4,Standard Swahili,Tribal Lexicons
+A22,TQ4,Tribal Lexicons,Tribal Lexicons
+A12,CQ13,Code-Mixing,Code-Mixing
+A13,CQ13,Code-Mixing,Code-Mixing
+A14,CQ13,Loan Words,Code-Mixing
+A15,CQ13,Code-Mixing,Code-Mixing
+A16,CQ13,Code-Mixing,Code-Mixing
+A17,CQ13,Code-Mixing,Code-Mixing
+A18,CQ13,Code-Mixing,Code-Mixing
+A19,CQ13,Code-Mixing,Code-Mixing
+A20,CQ13,Code-Mixing,Code-Mixing
+A21,CQ13,Code-Mixing,Code-Mixing
+A22,CQ13,Code-Mixing,Code-Mixing
+A12,LQ5,Loan Words,Loan Words
+A13,LQ5,Loan Words,Loan Words
+A14,LQ5,Code-Mixing,Loan Words
+A15,LQ5,Standard Swahili,Loan Words
+A16,LQ5,Loan Words,Loan Words
+A17,LQ5,Loan Words,Loan Words
+A18,LQ5,Loan Words,Loan Words
+A19,LQ5,Loan Words,Loan Words
+A20,LQ5,Loan Words,Loan Words
+A21,LQ5,Loan Words,Loan Words
+A22,LQ5,Loan Words,Loan Words
+A12,CQ6,Code-Mixing,Code-Mixing
+A13,CQ6,Code-Mixing,Code-Mixing
+A14,CQ6,Loan Words,Code-Mixing
+A15,CQ6,Loan Words,Code-Mixing
+A16,CQ6,Code-Mixing,Code-Mixing
+A17,CQ6,Code-Mixing,Code-Mixing
+A18,CQ6,Code-Mixing,Code-Mixing
+A19,CQ6,Code-Mixing,Code-Mixing
+A20,CQ6,Code-Mixing,Code-Mixing
+A21,CQ6,Code-Mixing,Code-Mixing
+A22,CQ6,Code-Mixing,Code-Mixing
+A12,TQ3,Standard Swahili,Tribal Lexicons
+A13,TQ3,Tribal Lexicons,Tribal Lexicons
+A14,TQ3,Tribal Lexicons,Tribal Lexicons
+A15,TQ3,Tribal Lexicons,Tribal Lexicons
+A16,TQ3,Tribal Lexicons,Tribal Lexicons
+A17,TQ3,Standard Swahili,Tribal Lexicons
+A18,TQ3,Standard Swahili,Tribal Lexicons
+A19,TQ3,Standard Swahili,Tribal Lexicons
+A20,TQ3,Tribal Lexicons,Tribal Lexicons
+A21,TQ3,Standard Swahili,Tribal Lexicons
+A22,TQ3,Tribal Lexicons,Tribal Lexicons
+A12,LQ2,Loan Words,Loan Words
+A13,LQ2,Loan Words,Loan Words
+A14,LQ2,Code-Mixing,Loan Words
+A15,LQ2,Standard Swahili,Loan Words
+A16,LQ2,Loan Words,Loan Words
+A17,LQ2,Loan Words,Loan Words
+A18,LQ2,Loan Words,Loan Words
+A19,LQ2,Loan Words,Loan Words
+A20,LQ2,Loan Words,Loan Words
+A21,LQ2,Loan Words,Loan Words
+A22,LQ2,Code-Mixing,Loan Words
+A12,CQ29,Code-Mixing,Code-Mixing
+A13,CQ29,Code-Mixing,Code-Mixing
+A14,CQ29,Loan Words,Code-Mixing
+A15,CQ29,Loan Words,Code-Mixing
+A16,CQ29,Code-Mixing,Code-Mixing
+A17,CQ29,Code-Mixing,Code-Mixing
+A18,CQ29,Code-Mixing,Code-Mixing
+A19,CQ29,Code-Mixing,Code-Mixing
+A20,CQ29,Code-Mixing,Code-Mixing
+A21,CQ29,Code-Mixing,Code-Mixing
+A22,CQ29,Code-Mixing,Code-Mixing
+A12,LQ18,Tribal Lexicons,Loan Words
+A13,LQ18,Loan Words,Loan Words
+A14,LQ18,Code-Mixing,Loan Words
+A15,LQ18,Standard Swahili,Loan Words
+A16,LQ18,Loan Words,Loan Words
+A17,LQ18,Loan Words,Loan Words
+A18,LQ18,Loan Words,Loan Words
+A19,LQ18,Loan Words,Loan Words
+A20,LQ18,Loan Words,Loan Words
+A21,LQ18,Loan Words,Loan Words
+A22,LQ18,Loan Words,Loan Words
+A12,TQ21,Standard Swahili,Tribal Lexicons
+A13,TQ21,Standard Swahili,Tribal Lexicons
+A14,TQ21,Standard Swahili,Tribal Lexicons
+A15,TQ21,Standard Swahili,Tribal Lexicons
+A16,TQ21,Standard Swahili,Tribal Lexicons
+A17,TQ21,Standard Swahili,Tribal Lexicons
+A18,TQ21,Tribal Lexicons,Tribal Lexicons
+A19,TQ21,Standard Swahili,Tribal Lexicons
+A20,TQ21,Standard Swahili,Tribal Lexicons
+A21,TQ21,Standard Swahili,Tribal Lexicons
+A22,TQ21,Standard Swahili,Tribal Lexicons
+A12,LQ51,Loan Words,Loan Words
+A13,LQ51,Code-Mixing,Loan Words
+A14,LQ51,Code-Mixing,Loan Words
+A15,LQ51,Standard Swahili,Loan Words
+A16,LQ51,Standard Swahili,Loan Words
+A17,LQ51,Loan Words,Loan Words
+A18,LQ51,Loan Words,Loan Words
+A19,LQ51,Loan Words,Loan Words
+A20,LQ51,Loan Words,Loan Words
+A21,LQ51,Code-Mixing,Loan Words
+A22,LQ51,Loan Words,Loan Words
+A23,TQ14,Tribal Lexicons,Tribal Lexicons
+A24,TQ14,Standard Swahili,Tribal Lexicons
+A25,TQ14,Tribal Lexicons,Tribal Lexicons
+A26,TQ14,Tribal Lexicons,Tribal Lexicons
+A27,TQ14,Tribal Lexicons,Tribal Lexicons
+A28,TQ14,Tribal Lexicons,Tribal Lexicons
+A29,TQ14,Tribal Lexicons,Tribal Lexicons
+A30,TQ14,Tribal Lexicons,Tribal Lexicons
+A31,TQ14,Tribal Lexicons,Tribal Lexicons
+A32,TQ14,Tribal Lexicons,Tribal Lexicons
+A23,LQ23,Standard Swahili,Loan Words
+A24,LQ23,Loan Words,Loan Words
+A25,LQ23,Loan Words,Loan Words
+A26,LQ23,Loan Words,Loan Words
+A27,LQ23,Standard Swahili,Loan Words
+A28,LQ23,Code-Mixing,Loan Words
+A29,LQ23,Loan Words,Loan Words
+A30,LQ23,Loan Words,Loan Words
+A31,LQ23,Loan Words,Loan Words
+A32,LQ23,Loan Words,Loan Words
+A23,CQ35,Code-Mixing,Code-Mixing
+A24,CQ35,Loan Words,Code-Mixing
+A25,CQ35,Code-Mixing,Code-Mixing
+A26,CQ35,Code-Mixing,Code-Mixing
+A27,CQ35,Loan Words,Code-Mixing
+A28,CQ35,Loan Words,Code-Mixing
+A29,CQ35,Loan Words,Code-Mixing
+A30,CQ35,Code-Mixing,Code-Mixing
+A31,CQ35,Code-Mixing,Code-Mixing
+A32,CQ35,Code-Mixing,Code-Mixing
+A23,SQ5,Sheng,Sheng
+A24,SQ5,Sheng,Sheng
+A25,SQ5,Sheng,Sheng
+A26,SQ5,Sheng,Sheng
+A27,SQ5,Sheng,Sheng
+A28,SQ5,Sheng,Sheng
+A29,SQ5,Sheng,Sheng
+A30,SQ5,Sheng,Sheng
+A31,SQ5,Sheng,Sheng
+A32,SQ5,Sheng,Sheng
+A23,LQ9,Standard Swahili,Loan Words
+A24,LQ9,Loan Words,Loan Words
+A25,LQ9,Loan Words,Loan Words
+A26,LQ9,Loan Words,Loan Words
+A27,LQ9,Standard Swahili,Loan Words
+A28,LQ9,Loan Words,Loan Words
+A29,LQ9,Standard Swahili,Loan Words
+A30,LQ9,Tribal Lexicons,Loan Words
+A31,LQ9,Loan Words,Loan Words
+A32,LQ9,Loan Words,Loan Words
+A23,CQ1,Code-Mixing,Code-Mixing
+A24,CQ1,Code-Mixing,Code-Mixing
+A25,CQ1,Code-Mixing,Code-Mixing
+A26,CQ1,Code-Mixing,Code-Mixing
+A27,CQ1,Code-Mixing,Code-Mixing
+A28,CQ1,Code-Mixing,Code-Mixing
+A29,CQ1,Code-Mixing,Code-Mixing
+A30,CQ1,Code-Mixing,Code-Mixing
+A31,CQ1,Code-Mixing,Code-Mixing
+A32,CQ1,Code-Mixing,Code-Mixing
+A23,TQ10,Tribal Lexicons,Tribal Lexicons
+A24,TQ10,Tribal Lexicons,Tribal Lexicons
+A25,TQ10,Tribal Lexicons,Tribal Lexicons
+A26,TQ10,Tribal Lexicons,Tribal Lexicons
+A27,TQ10,Tribal Lexicons,Tribal Lexicons
+A28,TQ10,Tribal Lexicons,Tribal Lexicons
+A29,TQ10,Tribal Lexicons,Tribal Lexicons
+A30,TQ10,Tribal Lexicons,Tribal Lexicons
+A31,TQ10,Tribal Lexicons,Tribal Lexicons
+A32,TQ10,Tribal Lexicons,Tribal Lexicons
+A23,LQ11,Loan Words,Loan Words
+A24,LQ11,Loan Words,Loan Words
+A25,LQ11,Standard Swahili,Loan Words
+A26,LQ11,Loan Words,Loan Words
+A27,LQ11,Standard Swahili,Loan Words
+A28,LQ11,Loan Words,Loan Words
+A29,LQ11,Standard Swahili,Loan Words
+A30,LQ11,Standard Swahili,Loan Words
+A31,LQ11,Loan Words,Loan Words
+A32,LQ11,Standard Swahili,Loan Words
+A23,CQ5,Code-Mixing,Code-Mixing
+A24,CQ5,Code-Mixing,Code-Mixing
+A25,CQ5,Code-Mixing,Code-Mixing
+A26,CQ5,Code-Mixing,Code-Mixing
+A27,CQ5,Loan Words,Code-Mixing
+A28,CQ5,Code-Mixing,Code-Mixing
+A29,CQ5,Code-Mixing,Code-Mixing
+A30,CQ5,Code-Mixing,Code-Mixing
+A31,CQ5,Code-Mixing,Code-Mixing
+A32,CQ5,Code-Mixing,Code-Mixing
+A23,LQ17,Loan Words,Loan Words
+A24,LQ17,Standard Swahili,Loan Words
+A25,LQ17,Loan Words,Loan Words
+A26,LQ17,Loan Words,Loan Words
+A27,LQ17,Standard Swahili,Loan Words
+A28,LQ17,Loan Words,Loan Words
+A29,LQ17,Loan Words,Loan Words
+A30,LQ17,Standard Swahili,Loan Words
+A31,LQ17,Loan Words,Loan Words
+A32,LQ17,Loan Words,Loan Words
+A33,CQ15,Code-Mixing,Code-Mixing
+A34,CQ15,Code-Mixing,Code-Mixing
+A35,CQ15,Code-Mixing,Code-Mixing
+A36,CQ15,Code-Mixing,Code-Mixing
+A37,CQ15,Loan Words,Code-Mixing
+A38,CQ15,Code-Mixing,Code-Mixing
+A39,CQ15,Code-Mixing,Code-Mixing
+A40,CQ15,Code-Mixing,Code-Mixing
+A41,CQ15,Code-Mixing,Code-Mixing
+A42,CQ15,Loan Words,Code-Mixing
+A33,LQ32,Standard Swahili,Loan Words
+A34,LQ32,Loan Words,Loan Words
+A35,LQ32,Loan Words,Loan Words
+A36,LQ32,Loan Words,Loan Words
+A37,LQ32,Loan Words,Loan Words
+A38,LQ32,Loan Words,Loan Words
+A39,LQ32,Loan Words,Loan Words
+A40,LQ32,Loan Words,Loan Words
+A41,LQ32,Loan Words,Loan Words
+A42,LQ32,Loan Words,Loan Words
+A33,TQ7,Tribal Lexicons,Tribal Lexicons
+A34,TQ7,Tribal Lexicons,Tribal Lexicons
+A35,TQ7,Tribal Lexicons,Tribal Lexicons
+A36,TQ7,Standard Swahili,Tribal Lexicons
+A37,TQ7,Tribal Lexicons,Tribal Lexicons
+A38,TQ7,Tribal Lexicons,Tribal Lexicons
+A39,TQ7,Sheng,Tribal Lexicons
+A40,TQ7,Tribal Lexicons,Tribal Lexicons
+A41,TQ7,Tribal Lexicons,Tribal Lexicons
+A42,TQ7,Tribal Lexicons,Tribal Lexicons
+A33,CQ38,Code-Mixing,Code-Mixing
+A34,CQ38,Loan Words,Code-Mixing
+A35,CQ38,Code-Mixing,Code-Mixing
+A36,CQ38,Code-Mixing,Code-Mixing
+A37,CQ38,Loan Words,Code-Mixing
+A38,CQ38,Code-Mixing,Code-Mixing
+A39,CQ38,Code-Mixing,Code-Mixing
+A40,CQ38,Code-Mixing,Code-Mixing
+A41,CQ38,Code-Mixing,Code-Mixing
+A42,CQ38,Code-Mixing,Code-Mixing
+A33,LQ22,Loan Words,Loan Words
+A34,LQ22,Code-Mixing,Loan Words
+A35,LQ22,Loan Words,Loan Words
+A36,LQ22,Loan Words,Loan Words
+A37,LQ22,Loan Words,Loan Words
+A38,LQ22,Loan Words,Loan Words
+A39,LQ22,Code-Mixing,Loan Words
+A40,LQ22,Loan Words,Loan Words
+A41,LQ22,Loan Words,Loan Words
+A42,LQ22,Loan Words,Loan Words
+A33,CQ36,Code-Mixing,Code-Mixing
+A34,CQ36,Code-Mixing,Code-Mixing
+A35,CQ36,Code-Mixing,Code-Mixing
+A36,CQ36,Loan Words,Code-Mixing
+A37,CQ36,Code-Mixing,Code-Mixing
+A38,CQ36,Code-Mixing,Code-Mixing
+A39,CQ36,Code-Mixing,Code-Mixing
+A40,CQ36,Code-Mixing,Code-Mixing
+A41,CQ36,Loan Words,Code-Mixing
+A42,CQ36,Code-Mixing,Code-Mixing
+A33,LQ31,Standard Swahili,Loan Words
+A34,LQ31,Loan Words,Loan Words
+A35,LQ31,Loan Words,Loan Words
+A36,LQ31,Loan Words,Loan Words
+A37,LQ31,Loan Words,Loan Words
+A38,LQ31,Loan Words,Loan Words
+A39,LQ31,Loan Words,Loan Words
+A40,LQ31,Loan Words,Loan Words
+A41,LQ31,Sheng,Loan Words
+A42,LQ31,Loan Words,Loan Words
+A33,TQ1,Sheng,Tribal Lexicons
+A34,TQ1,Standard Swahili,Tribal Lexicons
+A35,TQ1,Standard Swahili,Tribal Lexicons
+A36,TQ1,Standard Swahili,Tribal Lexicons
+A37,TQ1,Standard Swahili,Tribal Lexicons
+A38,TQ1,Tribal Lexicons,Tribal Lexicons
+A39,TQ1,Tribal Lexicons,Tribal Lexicons
+A40,TQ1,Standard Swahili,Tribal Lexicons
+A41,TQ1,Tribal Lexicons,Tribal Lexicons
+A42,TQ1,Tribal Lexicons,Tribal Lexicons
+A33,CQ16,Sheng,Code-Mixing
+A34,CQ16,Code-Mixing,Code-Mixing
+A35,CQ16,Code-Mixing,Code-Mixing
+A36,CQ16,Code-Mixing,Code-Mixing
+A37,CQ16,Code-Mixing,Code-Mixing
+A38,CQ16,Code-Mixing,Code-Mixing
+A39,CQ16,Sheng,Code-Mixing
+A40,CQ16,Code-Mixing,Code-Mixing
+A41,CQ16,Code-Mixing,Code-Mixing
+A42,CQ16,Code-Mixing,Code-Mixing
+A33,LQ48,Standard Swahili,Loan Words
+A34,LQ48,Standard Swahili,Loan Words
+A35,LQ48,Code-Mixing,Loan Words
+A36,LQ48,Loan Words,Loan Words
+A37,LQ48,Loan Words,Loan Words
+A38,LQ48,Loan Words,Loan Words
+A39,LQ48,Loan Words,Loan Words
+A40,LQ48,Loan Words,Loan Words
+A41,LQ48,Loan Words,Loan Words
+A42,LQ48,Loan Words,Loan Words
+A43,TQ20,Tribal Lexicons,Tribal Lexicons
+A44,TQ20,Tribal Lexicons,Tribal Lexicons
+A45,TQ20,Tribal Lexicons,Tribal Lexicons
+A46,TQ20,Tribal Lexicons,Tribal Lexicons
+A47,TQ20,Tribal Lexicons,Tribal Lexicons
+A48,TQ20,Tribal Lexicons,Tribal Lexicons
+A49,TQ20,Tribal Lexicons,Tribal Lexicons
+A50,TQ20,Tribal Lexicons,Tribal Lexicons
+A51,TQ20,Tribal Lexicons,Tribal Lexicons
+A52,TQ20,Code-Mixing,Tribal Lexicons
+A53,TQ20,Tribal Lexicons,Tribal Lexicons
+A43,LQ57,Standard Swahili,Loan Words
+A44,LQ57,Loan Words,Loan Words
+A45,LQ57,Loan Words,Loan Words
+A46,LQ57,Standard Swahili,Loan Words
+A47,LQ57,Loan Words,Loan Words
+A48,LQ57,Standard Swahili,Loan Words
+A49,LQ57,Loan Words,Loan Words
+A50,LQ57,Loan Words,Loan Words
+A51,LQ57,Loan Words,Loan Words
+A52,LQ57,Loan Words,Loan Words
+A53,LQ57,Loan Words,Loan Words
+A43,CQ26,Code-Mixing,Code-Mixing
+A44,CQ26,Code-Mixing,Code-Mixing
+A45,CQ26,Code-Mixing,Code-Mixing
+A46,CQ26,Code-Mixing,Code-Mixing
+A47,CQ26,Code-Mixing,Code-Mixing
+A48,CQ26,Loan Words,Code-Mixing
+A49,CQ26,Code-Mixing,Code-Mixing
+A50,CQ26,Code-Mixing,Code-Mixing
+A51,CQ26,Code-Mixing,Code-Mixing
+A52,CQ26,Loan Words,Code-Mixing
+A53,CQ26,Code-Mixing,Code-Mixing
+A43,LQ13,Loan Words,Loan Words
+A44,LQ13,Loan Words,Loan Words
+A45,LQ13,Loan Words,Loan Words
+A46,LQ13,Loan Words,Loan Words
+A47,LQ13,Loan Words,Loan Words
+A48,LQ13,Loan Words,Loan Words
+A49,LQ13,Loan Words,Loan Words
+A50,LQ13,Loan Words,Loan Words
+A51,LQ13,Loan Words,Loan Words
+A52,LQ13,Loan Words,Loan Words
+A53,LQ13,Loan Words,Loan Words
+A43,TQ22,Standard Swahili,Tribal Lexicons
+A44,TQ22,Tribal Lexicons,Tribal Lexicons
+A45,TQ22,Tribal Lexicons,Tribal Lexicons
+A46,TQ22,Tribal Lexicons,Tribal Lexicons
+A47,TQ22,Tribal Lexicons,Tribal Lexicons
+A48,TQ22,Standard Swahili,Tribal Lexicons
+A49,TQ22,Tribal Lexicons,Tribal Lexicons
+A50,TQ22,Tribal Lexicons,Tribal Lexicons
+A51,TQ22,Standard Swahili,Tribal Lexicons
+A52,TQ22,Code-Mixing,Tribal Lexicons
+A53,TQ22,Tribal Lexicons,Tribal Lexicons
+A43,CQ56,Code-Mixing,Code-Mixing
+A44,CQ56,Code-Mixing,Code-Mixing
+A45,CQ56,Code-Mixing,Code-Mixing
+A46,CQ56,Code-Mixing,Code-Mixing
+A47,CQ56,Code-Mixing,Code-Mixing
+A48,CQ56,Loan Words,Code-Mixing
+A49,CQ56,Code-Mixing,Code-Mixing
+A50,CQ56,Code-Mixing,Code-Mixing
+A51,CQ56,Code-Mixing,Code-Mixing
+A52,CQ56,Loan Words,Code-Mixing
+A53,CQ56,Code-Mixing,Code-Mixing
+A43,LQ3,Loan Words,Loan Words
+A44,LQ3,Loan Words,Loan Words
+A45,LQ3,Loan Words,Loan Words
+A46,LQ3,Code-Mixing,Loan Words
+A47,LQ3,Loan Words,Loan Words
+A48,LQ3,Code-Mixing,Loan Words
+A49,LQ3,Loan Words,Loan Words
+A50,LQ3,Loan Words,Loan Words
+A51,LQ3,Loan Words,Loan Words
+A52,LQ3,Loan Words,Loan Words
+A53,LQ3,Loan Words,Loan Words
+A43,TQ31,Standard Swahili,Tribal Lexicons
+A44,TQ31,Tribal Lexicons,Tribal Lexicons
+A45,TQ31,Tribal Lexicons,Tribal Lexicons
+A46,TQ31,Tribal Lexicons,Tribal Lexicons
+A47,TQ31,Tribal Lexicons,Tribal Lexicons
+A48,TQ31,Tribal Lexicons,Tribal Lexicons
+A49,TQ31,Tribal Lexicons,Tribal Lexicons
+A50,TQ31,Tribal Lexicons,Tribal Lexicons
+A51,TQ31,Tribal Lexicons,Tribal Lexicons
+A52,TQ31,Code-Mixing,Tribal Lexicons
+A53,TQ31,Tribal Lexicons,Tribal Lexicons
+A43,LQ71,Loan Words,Loan Words
+A44,LQ71,Loan Words,Loan Words
+A45,LQ71,Loan Words,Loan Words
+A46,LQ71,Loan Words,Loan Words
+A47,LQ71,Loan Words,Loan Words
+A48,LQ71,Loan Words,Loan Words
+A49,LQ71,Loan Words,Loan Words
+A50,LQ71,Loan Words,Loan Words
+A51,LQ71,Loan Words,Loan Words
+A52,LQ71,Loan Words,Loan Words
+A53,LQ71,Loan Words,Loan Words
+A43,CQ2,Code-Mixing,Code-Mixing
+A44,CQ2,Code-Mixing,Code-Mixing
+A45,CQ2,Code-Mixing,Code-Mixing
+A46,CQ2,Code-Mixing,Code-Mixing
+A47,CQ2,Code-Mixing,Code-Mixing
+A48,CQ2,Code-Mixing,Code-Mixing
+A49,CQ2,Code-Mixing,Code-Mixing
+A50,CQ2,Code-Mixing,Code-Mixing
+A51,CQ2,Code-Mixing,Code-Mixing
+A52,CQ2,Loan Words,Code-Mixing
+A53,CQ2,Code-Mixing,Code-Mixing
+A54,LQ45,Loan Words,Loan Words
+A55,LQ45,Standard Swahili,Loan Words
+A56,LQ45,Loan Words,Loan Words
+A57,LQ45,Loan Words,Loan Words
+A58,LQ45,Loan Words,Loan Words
+A59,LQ45,Loan Words,Loan Words
+A60,LQ45,Loan Words,Loan Words
+A61,LQ45,Standard Swahili,Loan Words
+A62,LQ45,Standard Swahili,Loan Words
+A63,LQ45,Loan Words,Loan Words
+A64,LQ45,Loan Words,Loan Words
+A54,CQ31,Code-Mixing,Code-Mixing
+A55,CQ31,Code-Mixing,Code-Mixing
+A56,CQ31,Code-Mixing,Code-Mixing
+A57,CQ31,Code-Mixing,Code-Mixing
+A58,CQ31,Code-Mixing,Code-Mixing
+A59,CQ31,Code-Mixing,Code-Mixing
+A60,CQ31,Code-Mixing,Code-Mixing
+A61,CQ31,Code-Mixing,Code-Mixing
+A62,CQ31,Loan Words,Code-Mixing
+A63,CQ31,Code-Mixing,Code-Mixing
+A64,CQ31,Code-Mixing,Code-Mixing
+A54,TQ8,Tribal Lexicons,Tribal Lexicons
+A55,TQ8,Tribal Lexicons,Tribal Lexicons
+A56,TQ8,Tribal Lexicons,Tribal Lexicons
+A57,TQ8,Tribal Lexicons,Tribal Lexicons
+A58,TQ8,Tribal Lexicons,Tribal Lexicons
+A59,TQ8,Tribal Lexicons,Tribal Lexicons
+A60,TQ8,Tribal Lexicons,Tribal Lexicons
+A61,TQ8,Tribal Lexicons,Tribal Lexicons
+A62,TQ8,Standard Swahili,Tribal Lexicons
+A63,TQ8,Tribal Lexicons,Tribal Lexicons
+A64,TQ8,Loan Words,Tribal Lexicons
+A54,LQ6,Loan Words,Loan Words
+A55,LQ6,Loan Words,Loan Words
+A56,LQ6,Loan Words,Loan Words
+A57,LQ6,Loan Words,Loan Words
+A58,LQ6,Loan Words,Loan Words
+A59,LQ6,Loan Words,Loan Words
+A60,LQ6,Loan Words,Loan Words
+A61,LQ6,Loan Words,Loan Words
+A62,LQ6,Standard Swahili,Loan Words
+A63,LQ6,Sheng,Loan Words
+A64,LQ6,Standard Swahili,Loan Words
+A54,CQ42,Code-Mixing,Code-Mixing
+A55,CQ42,Code-Mixing,Code-Mixing
+A56,CQ42,Code-Mixing,Code-Mixing
+A57,CQ42,Code-Mixing,Code-Mixing
+A58,CQ42,Code-Mixing,Code-Mixing
+A59,CQ42,Code-Mixing,Code-Mixing
+A60,CQ42,Code-Mixing,Code-Mixing
+A61,CQ42,Code-Mixing,Code-Mixing
+A62,CQ42,Loan Words,Code-Mixing
+A63,CQ42,Code-Mixing,Code-Mixing
+A64,CQ42,Tribal Lexicons,Code-Mixing
+A54,LQ34,Loan Words,Loan Words
+A55,LQ34,Loan Words,Loan Words
+A56,LQ34,Standard Swahili,Loan Words
+A57,LQ34,Loan Words,Loan Words
+A58,LQ34,Loan Words,Loan Words
+A59,LQ34,Loan Words,Loan Words
+A60,LQ34,Tribal Lexicons,Loan Words
+A61,LQ34,Loan Words,Loan Words
+A62,LQ34,Standard Swahili,Loan Words
+A63,LQ34,Loan Words,Loan Words
+A64,LQ34,Loan Words,Loan Words
+A54,CQ17,Loan Words,Code-Mixing
+A55,CQ17,Code-Mixing,Code-Mixing
+A56,CQ17,Code-Mixing,Code-Mixing
+A57,CQ17,Code-Mixing,Code-Mixing
+A58,CQ17,Code-Mixing,Code-Mixing
+A59,CQ17,Code-Mixing,Code-Mixing
+A60,CQ17,Loan Words,Code-Mixing
+A61,CQ17,Code-Mixing,Code-Mixing
+A62,CQ17,Loan Words,Code-Mixing
+A63,CQ17,Code-Mixing,Code-Mixing
+A64,CQ17,Code-Mixing,Code-Mixing
+A54,LQ29,Loan Words,Loan Words
+A55,LQ29,Loan Words,Loan Words
+A56,LQ29,Loan Words,Loan Words
+A57,LQ29,Sheng,Loan Words
+A58,LQ29,Code-Mixing,Loan Words
+A59,LQ29,Loan Words,Loan Words
+A60,LQ29,Loan Words,Loan Words
+A61,LQ29,Loan Words,Loan Words
+A62,LQ29,Loan Words,Loan Words
+A63,LQ29,Loan Words,Loan Words
+A64,LQ29,Loan Words,Loan Words
+A54,TQ23,Tribal Lexicons,Tribal Lexicons
+A55,TQ23,Tribal Lexicons,Tribal Lexicons
+A56,TQ23,Tribal Lexicons,Tribal Lexicons
+A57,TQ23,Tribal Lexicons,Tribal Lexicons
+A58,TQ23,Tribal Lexicons,Tribal Lexicons
+A59,TQ23,Standard Swahili,Tribal Lexicons
+A60,TQ23,Standard Swahili,Tribal Lexicons
+A61,TQ23,Standard Swahili,Tribal Lexicons
+A62,TQ23,Standard Swahili,Tribal Lexicons
+A63,TQ23,Tribal Lexicons,Tribal Lexicons
+A64,TQ23,Standard Swahili,Tribal Lexicons
+A54,CQ10,Code-Mixing,Code-Mixing
+A55,CQ10,Code-Mixing,Code-Mixing
+A56,CQ10,Code-Mixing,Code-Mixing
+A57,CQ10,Code-Mixing,Code-Mixing
+A58,CQ10,Code-Mixing,Code-Mixing
+A59,CQ10,Code-Mixing,Code-Mixing
+A60,CQ10,Sheng,Code-Mixing
+A61,CQ10,Code-Mixing,Code-Mixing
+A62,CQ10,Loan Words,Code-Mixing
+A63,CQ10,Code-Mixing,Code-Mixing
+A64,CQ10,Code-Mixing,Code-Mixing
+A65,LQ27,Standard Swahili,Loan Words
+A66,LQ27,Standard Swahili,Loan Words
+A67,LQ27,Loan Words,Loan Words
+A68,LQ27,Standard Swahili,Loan Words
+A69,LQ27,Standard Swahili,Loan Words
+A70,LQ27,Loan Words,Loan Words
+A71,LQ27,Standard Swahili,Loan Words
+A72,LQ27,Standard Swahili,Loan Words
+A73,LQ27,Loan Words,Loan Words
+A74,LQ27,Loan Words,Loan Words
+A75,LQ27,Standard Swahili,Loan Words
+A65,CQ34,Code-Mixing,Code-Mixing
+A66,CQ34,Code-Mixing,Code-Mixing
+A67,CQ34,Code-Mixing,Code-Mixing
+A68,CQ34,Code-Mixing,Code-Mixing
+A69,CQ34,Code-Mixing,Code-Mixing
+A70,CQ34,Code-Mixing,Code-Mixing
+A71,CQ34,Code-Mixing,Code-Mixing
+A72,CQ34,Code-Mixing,Code-Mixing
+A73,CQ34,Code-Mixing,Code-Mixing
+A74,CQ34,Code-Mixing,Code-Mixing
+A75,CQ34,Code-Mixing,Code-Mixing
+A65,LQ7,Loan Words,Loan Words
+A66,LQ7,Standard Swahili,Loan Words
+A67,LQ7,Loan Words,Loan Words
+A68,LQ7,Loan Words,Loan Words
+A69,LQ7,Loan Words,Loan Words
+A70,LQ7,Loan Words,Loan Words
+A71,LQ7,Loan Words,Loan Words
+A72,LQ7,Loan Words,Loan Words
+A73,LQ7,Loan Words,Loan Words
+A74,LQ7,Loan Words,Loan Words
+A75,LQ7,Loan Words,Loan Words
+A65,TQ16,Tribal Lexicons,Tribal Lexicons
+A66,TQ16,Tribal Lexicons,Tribal Lexicons
+A67,TQ16,Tribal Lexicons,Tribal Lexicons
+A68,TQ16,Tribal Lexicons,Tribal Lexicons
+A69,TQ16,Standard Swahili,Tribal Lexicons
+A70,TQ16,Standard Swahili,Tribal Lexicons
+A71,TQ16,Tribal Lexicons,Tribal Lexicons
+A72,TQ16,Standard Swahili,Tribal Lexicons
+A73,TQ16,Tribal Lexicons,Tribal Lexicons
+A74,TQ16,Loan Words,Tribal Lexicons
+A75,TQ16,Tribal Lexicons,Tribal Lexicons
+A65,LQ52,Loan Words,Loan Words
+A66,LQ52,Loan Words,Loan Words
+A67,LQ52,Loan Words,Loan Words
+A68,LQ52,Standard Swahili,Loan Words
+A69,LQ52,Loan Words,Loan Words
+A70,LQ52,Loan Words,Loan Words
+A71,LQ52,Loan Words,Loan Words
+A72,LQ52,Loan Words,Loan Words
+A73,LQ52,Loan Words,Loan Words
+A74,LQ52,Loan Words,Loan Words
+A75,LQ52,Loan Words,Loan Words
+A65,CQ53,Sheng,Code-Mixing
+A66,CQ53,Sheng,Code-Mixing
+A67,CQ53,Code-Mixing,Code-Mixing
+A68,CQ53,Sheng,Code-Mixing
+A69,CQ53,Code-Mixing,Code-Mixing
+A70,CQ53,Sheng,Code-Mixing
+A71,CQ53,Code-Mixing,Code-Mixing
+A72,CQ53,Code-Mixing,Code-Mixing
+A73,CQ53,Code-Mixing,Code-Mixing
+A74,CQ53,Code-Mixing,Code-Mixing
+A75,CQ53,Sheng,Code-Mixing
+A65,LQ62,Loan Words,Loan Words
+A66,LQ62,Code-Mixing,Loan Words
+A67,LQ62,Loan Words,Loan Words
+A68,LQ62,Loan Words,Loan Words
+A69,LQ62,Loan Words,Loan Words
+A70,LQ62,Loan Words,Loan Words
+A71,LQ62,Loan Words,Loan Words
+A72,LQ62,Loan Words,Loan Words
+A73,LQ62,Loan Words,Loan Words
+A74,LQ62,Loan Words,Loan Words
+A75,LQ62,Loan Words,Loan Words
+A65,CQ41,Code-Mixing,Code-Mixing
+A66,CQ41,Sheng,Code-Mixing
+A67,CQ41,Code-Mixing,Code-Mixing
+A68,CQ41,Code-Mixing,Code-Mixing
+A69,CQ41,Code-Mixing,Code-Mixing
+A70,CQ41,Code-Mixing,Code-Mixing
+A71,CQ41,Code-Mixing,Code-Mixing
+A72,CQ41,Code-Mixing,Code-Mixing
+A73,CQ41,Code-Mixing,Code-Mixing
+A74,CQ41,Code-Mixing,Code-Mixing
+A75,CQ41,Code-Mixing,Code-Mixing
+A65,TQ30,Standard Swahili,Tribal Lexicons
+A66,TQ30,Tribal Lexicons,Tribal Lexicons
+A67,TQ30,Tribal Lexicons,Tribal Lexicons
+A68,TQ30,Tribal Lexicons,Tribal Lexicons
+A69,TQ30,Standard Swahili,Tribal Lexicons
+A70,TQ30,Standard Swahili,Tribal Lexicons
+A71,TQ30,Tribal Lexicons,Tribal Lexicons
+A72,TQ30,Tribal Lexicons,Tribal Lexicons
+A73,TQ30,Tribal Lexicons,Tribal Lexicons
+A74,TQ30,Tribal Lexicons,Tribal Lexicons
+A75,TQ30,Tribal Lexicons,Tribal Lexicons
+A65,CQ28,Code-Mixing,Code-Mixing
+A66,CQ28,Code-Mixing,Code-Mixing
+A67,CQ28,Code-Mixing,Code-Mixing
+A68,CQ28,Code-Mixing,Code-Mixing
+A69,CQ28,Code-Mixing,Code-Mixing
+A70,CQ28,Code-Mixing,Code-Mixing
+A71,CQ28,Code-Mixing,Code-Mixing
+A72,CQ28,Code-Mixing,Code-Mixing
+A73,CQ28,Code-Mixing,Code-Mixing
+A74,CQ28,Code-Mixing,Code-Mixing
+A75,CQ28,Code-Mixing,Code-Mixing
+A76,CQ24,Loan Words,Code-Mixing
+A77,CQ24,Code-Mixing,Code-Mixing
+A78,CQ24,Loan Words,Code-Mixing
+A79,CQ24,Code-Mixing,Code-Mixing
+A80,CQ24,Code-Mixing,Code-Mixing
+A81,CQ24,Code-Mixing,Code-Mixing
+A82,CQ24,Code-Mixing,Code-Mixing
+A83,CQ24,Code-Mixing,Code-Mixing
+A84,CQ24,Loan Words,Code-Mixing
+A85,CQ24,Code-Mixing,Code-Mixing
+A86,CQ24,Code-Mixing,Code-Mixing
+A87,CQ24,Code-Mixing,Code-Mixing
+A76,LQ8,Loan Words,Loan Words
+A77,LQ8,Loan Words,Loan Words
+A78,LQ8,Standard Swahili,Loan Words
+A79,LQ8,Loan Words,Loan Words
+A80,LQ8,Loan Words,Loan Words
+A81,LQ8,Loan Words,Loan Words
+A82,LQ8,Loan Words,Loan Words
+A83,LQ8,Loan Words,Loan Words
+A84,LQ8,Loan Words,Loan Words
+A85,LQ8,Loan Words,Loan Words
+A86,LQ8,Loan Words,Loan Words
+A87,LQ8,Loan Words,Loan Words
+A76,TQ2,Tribal Lexicons,Tribal Lexicons
+A77,TQ2,Tribal Lexicons,Tribal Lexicons
+A78,TQ2,Tribal Lexicons,Tribal Lexicons
+A79,TQ2,Tribal Lexicons,Tribal Lexicons
+A80,TQ2,Tribal Lexicons,Tribal Lexicons
+A81,TQ2,Standard Swahili,Tribal Lexicons
+A82,TQ2,Tribal Lexicons,Tribal Lexicons
+A83,TQ2,Tribal Lexicons,Tribal Lexicons
+A84,TQ2,Tribal Lexicons,Tribal Lexicons
+A85,TQ2,Tribal Lexicons,Tribal Lexicons
+A86,TQ2,Tribal Lexicons,Tribal Lexicons
+A87,TQ2,Tribal Lexicons,Tribal Lexicons
+A76,LQ41,Loan Words,Loan Words
+A77,LQ41,Code-Mixing,Loan Words
+A78,LQ41,Loan Words,Loan Words
+A79,LQ41,Code-Mixing,Loan Words
+A80,LQ41,Code-Mixing,Loan Words
+A81,LQ41,Code-Mixing,Loan Words
+A82,LQ41,Loan Words,Loan Words
+A83,LQ41,Code-Mixing,Loan Words
+A84,LQ41,Code-Mixing,Loan Words
+A85,LQ41,Code-Mixing,Loan Words
+A86,LQ41,Code-Mixing,Loan Words
+A87,LQ41,Code-Mixing,Loan Words
+A76,CQ57,Standard Swahili,Code-Mixing
+A77,CQ57,Standard Swahili,Code-Mixing
+A78,CQ57,Standard Swahili,Code-Mixing
+A79,CQ57,Standard Swahili,Code-Mixing
+A80,CQ57,Standard Swahili,Code-Mixing
+A81,CQ57,Standard Swahili,Code-Mixing
+A82,CQ57,Standard Swahili,Code-Mixing
+A83,CQ57,Standard Swahili,Code-Mixing
+A84,CQ57,Standard Swahili,Code-Mixing
+A85,CQ57,Standard Swahili,Code-Mixing
+A86,CQ57,Standard Swahili,Code-Mixing
+A87,CQ57,Tribal Lexicons,Code-Mixing
+A76,CQ25,Loan Words,Code-Mixing
+A77,CQ25,Code-Mixing,Code-Mixing
+A78,CQ25,Loan Words,Code-Mixing
+A79,CQ25,Loan Words,Code-Mixing
+A80,CQ25,Loan Words,Code-Mixing
+A81,CQ25,Loan Words,Code-Mixing
+A82,CQ25,Loan Words,Code-Mixing
+A83,CQ25,Code-Mixing,Code-Mixing
+A84,CQ25,Sheng,Code-Mixing
+A85,CQ25,Code-Mixing,Code-Mixing
+A86,CQ25,Code-Mixing,Code-Mixing
+A87,CQ25,Code-Mixing,Code-Mixing
+A76,LQ35,Loan Words,Loan Words
+A77,LQ35,Loan Words,Loan Words
+A78,LQ35,Standard Swahili,Loan Words
+A79,LQ35,Loan Words,Loan Words
+A80,LQ35,Loan Words,Loan Words
+A81,LQ35,Standard Swahili,Loan Words
+A82,LQ35,Loan Words,Loan Words
+A83,LQ35,Loan Words,Loan Words
+A84,LQ35,Loan Words,Loan Words
+A85,LQ35,Loan Words,Loan Words
+A86,LQ35,Loan Words,Loan Words
+A87,LQ35,Loan Words,Loan Words
+A76,TQ29,Standard Swahili,Tribal Lexicons
+A77,TQ29,Tribal Lexicons,Tribal Lexicons
+A78,TQ29,Tribal Lexicons,Tribal Lexicons
+A79,TQ29,Tribal Lexicons,Tribal Lexicons
+A80,TQ29,Tribal Lexicons,Tribal Lexicons
+A81,TQ29,Tribal Lexicons,Tribal Lexicons
+A82,TQ29,Tribal Lexicons,Tribal Lexicons
+A83,TQ29,Tribal Lexicons,Tribal Lexicons
+A84,TQ29,Tribal Lexicons,Tribal Lexicons
+A85,TQ29,Tribal Lexicons,Tribal Lexicons
+A86,TQ29,Tribal Lexicons,Tribal Lexicons
+A87,TQ29,Tribal Lexicons,Tribal Lexicons
+A76,LQ72,Loan Words,Loan Words
+A77,LQ72,Loan Words,Loan Words
+A78,LQ72,Standard Swahili,Loan Words
+A79,LQ72,Loan Words,Loan Words
+A80,LQ72,Loan Words,Loan Words
+A81,LQ72,Loan Words,Loan Words
+A82,LQ72,Loan Words,Loan Words
+A83,LQ72,Loan Words,Loan Words
+A84,LQ72,Loan Words,Loan Words
+A85,LQ72,Loan Words,Loan Words
+A86,LQ72,Loan Words,Loan Words
+A87,LQ72,Loan Words,Loan Words
+A76,SQ1,Standard Swahili,Sheng
+A77,SQ1,Sheng,Sheng
+A78,SQ1,Sheng,Sheng
+A79,SQ1,Standard Swahili,Sheng
+A80,SQ1,Tribal Lexicons,Sheng
+A81,SQ1,Sheng,Sheng
+A82,SQ1,Sheng,Sheng
+A83,SQ1,Sheng,Sheng
+A84,SQ1,Standard Swahili,Sheng
+A85,SQ1,Sheng,Sheng
+A86,SQ1,Sheng,Sheng
+A87,SQ1,Sheng,Sheng
+A88,LQ28,Loan Words,Loan Words
+A89,LQ28,Loan Words,Loan Words
+A90,LQ28,Loan Words,Loan Words
+A91,LQ28,Loan Words,Loan Words
+A92,LQ28,Loan Words,Loan Words
+A93,LQ28,Loan Words,Loan Words
+A94,LQ28,Loan Words,Loan Words
+A95,LQ28,Loan Words,Loan Words
+A96,LQ28,Loan Words,Loan Words
+A97,LQ28,Loan Words,Loan Words
+A98,LQ28,Loan Words,Loan Words
+A88,CQ14,Sheng,Code-Mixing
+A89,CQ14,Code-Mixing,Code-Mixing
+A90,CQ14,Code-Mixing,Code-Mixing
+A91,CQ14,Code-Mixing,Code-Mixing
+A92,CQ14,Code-Mixing,Code-Mixing
+A93,CQ14,Code-Mixing,Code-Mixing
+A94,CQ14,Code-Mixing,Code-Mixing
+A95,CQ14,Code-Mixing,Code-Mixing
+A96,CQ14,Code-Mixing,Code-Mixing
+A97,CQ14,Code-Mixing,Code-Mixing
+A98,CQ14,Code-Mixing,Code-Mixing
+A88,TQ5,Code-Mixing,Tribal Lexicons
+A89,TQ5,Tribal Lexicons,Tribal Lexicons
+A90,TQ5,Tribal Lexicons,Tribal Lexicons
+A91,TQ5,Tribal Lexicons,Tribal Lexicons
+A92,TQ5,Tribal Lexicons,Tribal Lexicons
+A93,TQ5,Tribal Lexicons,Tribal Lexicons
+A94,TQ5,Tribal Lexicons,Tribal Lexicons
+A95,TQ5,Tribal Lexicons,Tribal Lexicons
+A96,TQ5,Tribal Lexicons,Tribal Lexicons
+A97,TQ5,Sheng,Tribal Lexicons
+A98,TQ5,Loan Words,Tribal Lexicons
+A88,LQ10,Tribal Lexicons,Loan Words
+A89,LQ10,Loan Words,Loan Words
+A90,LQ10,Tribal Lexicons,Loan Words
+A91,LQ10,Loan Words,Loan Words
+A92,LQ10,Loan Words,Loan Words
+A93,LQ10,Standard Swahili,Loan Words
+A94,LQ10,Loan Words,Loan Words
+A95,LQ10,Loan Words,Loan Words
+A96,LQ10,Loan Words,Loan Words
+A97,LQ10,Loan Words,Loan Words
+A98,LQ10,Loan Words,Loan Words
+A88,CQ39,Code-Mixing,Code-Mixing
+A89,CQ39,Code-Mixing,Code-Mixing
+A90,CQ39,Code-Mixing,Code-Mixing
+A91,CQ39,Code-Mixing,Code-Mixing
+A92,CQ39,Code-Mixing,Code-Mixing
+A93,CQ39,Code-Mixing,Code-Mixing
+A94,CQ39,Code-Mixing,Code-Mixing
+A95,CQ39,Code-Mixing,Code-Mixing
+A96,CQ39,Code-Mixing,Code-Mixing
+A97,CQ39,Code-Mixing,Code-Mixing
+A98,CQ39,Code-Mixing,Code-Mixing
+A88,LQ19,Loan Words,Loan Words
+A89,LQ19,Loan Words,Loan Words
+A90,LQ19,Loan Words,Loan Words
+A91,LQ19,Loan Words,Loan Words
+A92,LQ19,Loan Words,Loan Words
+A93,LQ19,Loan Words,Loan Words
+A94,LQ19,Loan Words,Loan Words
+A95,LQ19,Code-Mixing,Loan Words
+A96,LQ19,Loan Words,Loan Words
+A97,LQ19,Loan Words,Loan Words
+A98,LQ19,Loan Words,Loan Words
+A88,CQ52,Code-Mixing,Code-Mixing
+A89,CQ52,Code-Mixing,Code-Mixing
+A90,CQ52,Code-Mixing,Code-Mixing
+A91,CQ52,Sheng,Code-Mixing
+A92,CQ52,Code-Mixing,Code-Mixing
+A93,CQ52,Sheng,Code-Mixing
+A94,CQ52,Code-Mixing,Code-Mixing
+A95,CQ52,Sheng,Code-Mixing
+A96,CQ52,Code-Mixing,Code-Mixing
+A97,CQ52,Code-Mixing,Code-Mixing
+A98,CQ52,Code-Mixing,Code-Mixing
+A88,TQ19,Tribal Lexicons,Tribal Lexicons
+A89,TQ19,Tribal Lexicons,Tribal Lexicons
+A90,TQ19,Tribal Lexicons,Tribal Lexicons
+A91,TQ19,Tribal Lexicons,Tribal Lexicons
+A92,TQ19,Tribal Lexicons,Tribal Lexicons
+A93,TQ19,Tribal Lexicons,Tribal Lexicons
+A94,TQ19,Tribal Lexicons,Tribal Lexicons
+A95,TQ19,Tribal Lexicons,Tribal Lexicons
+A96,TQ19,Tribal Lexicons,Tribal Lexicons
+A97,TQ19,Tribal Lexicons,Tribal Lexicons
+A98,TQ19,Tribal Lexicons,Tribal Lexicons
+A88,LQ38,Standard Swahili,Loan Words
+A89,LQ38,Loan Words,Loan Words
+A90,LQ38,Loan Words,Loan Words
+A91,LQ38,Loan Words,Loan Words
+A92,LQ38,Loan Words,Loan Words
+A93,LQ38,Loan Words,Loan Words
+A94,LQ38,Loan Words,Loan Words
+A95,LQ38,Loan Words,Loan Words
+A96,LQ38,Loan Words,Loan Words
+A97,LQ38,Loan Words,Loan Words
+A98,LQ38,Loan Words,Loan Words
+A88,CQ3,Code-Mixing,Code-Mixing
+A89,CQ3,Code-Mixing,Code-Mixing
+A90,CQ3,Code-Mixing,Code-Mixing
+A91,CQ3,Code-Mixing,Code-Mixing
+A92,CQ3,Code-Mixing,Code-Mixing
+A93,CQ3,Code-Mixing,Code-Mixing
+A94,CQ3,Code-Mixing,Code-Mixing
+A95,CQ3,Code-Mixing,Code-Mixing
+A96,CQ3,Code-Mixing,Code-Mixing
+A97,CQ3,Code-Mixing,Code-Mixing
+A98,CQ3,Code-Mixing,Code-Mixing
+A99,LQ12,Loan Words,Loan Words
+A100,LQ12,Loan Words,Loan Words
+A101,LQ12,Loan Words,Loan Words
+A102,LQ12,Tribal Lexicons,Loan Words
+A103,LQ12,Loan Words,Loan Words
+A104,LQ12,Loan Words,Loan Words
+A105,LQ12,Loan Words,Loan Words
+A106,LQ12,Loan Words,Loan Words
+A107,LQ12,Loan Words,Loan Words
+A108,LQ12,Loan Words,Loan Words
+A109,LQ12,Loan Words,Loan Words
+A99,CQ11,Code-Mixing,Code-Mixing
+A100,CQ11,Code-Mixing,Code-Mixing
+A101,CQ11,Code-Mixing,Code-Mixing
+A102,CQ11,Loan Words,Code-Mixing
+A103,CQ11,Code-Mixing,Code-Mixing
+A104,CQ11,Loan Words,Code-Mixing
+A105,CQ11,Code-Mixing,Code-Mixing
+A106,CQ11,Code-Mixing,Code-Mixing
+A107,CQ11,Loan Words,Code-Mixing
+A108,CQ11,Loan Words,Code-Mixing
+A109,CQ11,Code-Mixing,Code-Mixing
+A99,TQ6,Tribal Lexicons,Tribal Lexicons
+A100,TQ6,Tribal Lexicons,Tribal Lexicons
+A101,TQ6,Tribal Lexicons,Tribal Lexicons
+A102,TQ6,Tribal Lexicons,Tribal Lexicons
+A103,TQ6,Tribal Lexicons,Tribal Lexicons
+A104,TQ6,Tribal Lexicons,Tribal Lexicons
+A105,TQ6,Tribal Lexicons,Tribal Lexicons
+A106,TQ6,Tribal Lexicons,Tribal Lexicons
+A107,TQ6,Tribal Lexicons,Tribal Lexicons
+A108,TQ6,Tribal Lexicons,Tribal Lexicons
+A109,TQ6,Tribal Lexicons,Tribal Lexicons
+A99,LQ36,Loan Words,Loan Words
+A100,LQ36,Loan Words,Loan Words
+A101,LQ36,Standard Swahili,Loan Words
+A102,LQ36,Standard Swahili,Loan Words
+A103,LQ36,Loan Words,Loan Words
+A104,LQ36,Loan Words,Loan Words
+A105,LQ36,Loan Words,Loan Words
+A106,LQ36,Standard Swahili,Loan Words
+A107,LQ36,Standard Swahili,Loan Words
+A108,LQ36,Standard Swahili,Loan Words
+A109,LQ36,Loan Words,Loan Words
+A99,CQ4,Code-Mixing,Code-Mixing
+A100,CQ4,Code-Mixing,Code-Mixing
+A101,CQ4,Code-Mixing,Code-Mixing
+A102,CQ4,Sheng,Code-Mixing
+A103,CQ4,Loan Words,Code-Mixing
+A104,CQ4,Code-Mixing,Code-Mixing
+A105,CQ4,Code-Mixing,Code-Mixing
+A106,CQ4,Code-Mixing,Code-Mixing
+A107,CQ4,Code-Mixing,Code-Mixing
+A108,CQ4,Code-Mixing,Code-Mixing
+A109,CQ4,Sheng,Code-Mixing
+A99,LQ49,Standard Swahili,Loan Words
+A100,LQ49,Standard Swahili,Loan Words
+A101,LQ49,Standard Swahili,Loan Words
+A102,LQ49,Standard Swahili,Loan Words
+A103,LQ49,Standard Swahili,Loan Words
+A104,LQ49,Standard Swahili,Loan Words
+A105,LQ49,Standard Swahili,Loan Words
+A106,LQ49,Standard Swahili,Loan Words
+A107,LQ49,Standard Swahili,Loan Words
+A108,LQ49,Standard Swahili,Loan Words
+A109,LQ49,Standard Swahili,Loan Words
+A99,CQ46,Loan Words,Code-Mixing
+A100,CQ46,Loan Words,Code-Mixing
+A101,CQ46,Loan Words,Code-Mixing
+A102,CQ46,Loan Words,Code-Mixing
+A103,CQ46,Loan Words,Code-Mixing
+A104,CQ46,Loan Words,Code-Mixing
+A105,CQ46,Loan Words,Code-Mixing
+A106,CQ46,Loan Words,Code-Mixing
+A107,CQ46,Loan Words,Code-Mixing
+A108,CQ46,Loan Words,Code-Mixing
+A109,CQ46,Loan Words,Code-Mixing
+A99,LQ33,Loan Words,Loan Words
+A100,LQ33,Loan Words,Loan Words
+A101,LQ33,Standard Swahili,Loan Words
+A102,LQ33,Standard Swahili,Loan Words
+A103,LQ33,Loan Words,Loan Words
+A104,LQ33,Loan Words,Loan Words
+A105,LQ33,Loan Words,Loan Words
+A106,LQ33,Loan Words,Loan Words
+A107,LQ33,Loan Words,Loan Words
+A108,LQ33,Standard Swahili,Loan Words
+A109,LQ33,Standard Swahili,Loan Words
+A99,CQ7,Code-Mixing,Code-Mixing
+A100,CQ7,Code-Mixing,Code-Mixing
+A101,CQ7,Loan Words,Code-Mixing
+A102,CQ7,Loan Words,Code-Mixing
+A103,CQ7,Code-Mixing,Code-Mixing
+A104,CQ7,Loan Words,Code-Mixing
+A105,CQ7,Code-Mixing,Code-Mixing
+A106,CQ7,Code-Mixing,Code-Mixing
+A107,CQ7,Loan Words,Code-Mixing
+A108,CQ7,Loan Words,Code-Mixing
+A109,CQ7,Code-Mixing,Code-Mixing
+A99,TQ18,Standard Swahili,Tribal Lexicons
+A100,TQ18,Tribal Lexicons,Tribal Lexicons
+A101,TQ18,Standard Swahili,Tribal Lexicons
+A102,TQ18,Tribal Lexicons,Tribal Lexicons
+A103,TQ18,Tribal Lexicons,Tribal Lexicons
+A104,TQ18,Tribal Lexicons,Tribal Lexicons
+A105,TQ18,Standard Swahili,Tribal Lexicons
+A106,TQ18,Tribal Lexicons,Tribal Lexicons
+A107,TQ18,Standard Swahili,Tribal Lexicons
+A108,TQ18,Standard Swahili,Tribal Lexicons
+A109,TQ18,Standard Swahili,Tribal Lexicons
+A110,LQ14,Loan Words,Loan Words
+A111,LQ14,Loan Words,Loan Words
+A112,LQ14,Loan Words,Loan Words
+A113,LQ14,Loan Words,Loan Words
+A114,LQ14,Loan Words,Loan Words
+A115,LQ14,Loan Words,Loan Words
+A116,LQ14,Loan Words,Loan Words
+A117,LQ14,Loan Words,Loan Words
+A118,LQ14,Standard Swahili,Loan Words
+A119,LQ14,Loan Words,Loan Words
+A120,LQ14,Loan Words,Loan Words
+A110,CQ9,Code-Mixing,Code-Mixing
+A111,CQ9,Code-Mixing,Code-Mixing
+A112,CQ9,Code-Mixing,Code-Mixing
+A113,CQ9,Code-Mixing,Code-Mixing
+A114,CQ9,Code-Mixing,Code-Mixing
+A115,CQ9,Code-Mixing,Code-Mixing
+A116,CQ9,Code-Mixing,Code-Mixing
+A117,CQ9,Code-Mixing,Code-Mixing
+A118,CQ9,Code-Mixing,Code-Mixing
+A119,CQ9,Code-Mixing,Code-Mixing
+A120,CQ9,Code-Mixing,Code-Mixing
+A110,TQ9,Tribal Lexicons,Tribal Lexicons
+A111,TQ9,Standard Swahili,Tribal Lexicons
+A112,TQ9,Tribal Lexicons,Tribal Lexicons
+A113,TQ9,Tribal Lexicons,Tribal Lexicons
+A114,TQ9,Standard Swahili,Tribal Lexicons
+A115,TQ9,Tribal Lexicons,Tribal Lexicons
+A116,TQ9,Tribal Lexicons,Tribal Lexicons
+A117,TQ9,Tribal Lexicons,Tribal Lexicons
+A118,TQ9,Tribal Lexicons,Tribal Lexicons
+A119,TQ9,Standard Swahili,Tribal Lexicons
+A120,TQ9,Standard Swahili,Tribal Lexicons
+A110,LQ39,Loan Words,Loan Words
+A111,LQ39,Loan Words,Loan Words
+A112,LQ39,Loan Words,Loan Words
+A113,LQ39,Loan Words,Loan Words
+A114,LQ39,Loan Words,Loan Words
+A115,LQ39,Loan Words,Loan Words
+A116,LQ39,Loan Words,Loan Words
+A117,LQ39,Loan Words,Loan Words
+A118,LQ39,Loan Words,Loan Words
+A119,LQ39,Loan Words,Loan Words
+A120,LQ39,Loan Words,Loan Words
+A110,CQ22,Code-Mixing,Code-Mixing
+A111,CQ22,Code-Mixing,Code-Mixing
+A112,CQ22,Loan Words,Code-Mixing
+A113,CQ22,Code-Mixing,Code-Mixing
+A114,CQ22,Code-Mixing,Code-Mixing
+A115,CQ22,Code-Mixing,Code-Mixing
+A116,CQ22,Code-Mixing,Code-Mixing
+A117,CQ22,Code-Mixing,Code-Mixing
+A118,CQ22,Code-Mixing,Code-Mixing
+A119,CQ22,Code-Mixing,Code-Mixing
+A120,CQ22,Code-Mixing,Code-Mixing
+A110,LQ15,Standard Swahili,Loan Words
+A111,LQ15,Standard Swahili,Loan Words
+A112,LQ15,Loan Words,Loan Words
+A113,LQ15,Standard Swahili,Loan Words
+A114,LQ15,Loan Words,Loan Words
+A115,LQ15,Standard Swahili,Loan Words
+A116,LQ15,Standard Swahili,Loan Words
+A117,LQ15,Standard Swahili,Loan Words
+A118,LQ15,Loan Words,Loan Words
+A119,LQ15,Standard Swahili,Loan Words
+A120,LQ15,Standard Swahili,Loan Words
+A110,CQ33,Code-Mixing,Code-Mixing
+A111,CQ33,Code-Mixing,Code-Mixing
+A112,CQ33,Code-Mixing,Code-Mixing
+A113,CQ33,Code-Mixing,Code-Mixing
+A114,CQ33,Code-Mixing,Code-Mixing
+A115,CQ33,Code-Mixing,Code-Mixing
+A116,CQ33,Code-Mixing,Code-Mixing
+A117,CQ33,Code-Mixing,Code-Mixing
+A118,CQ33,Code-Mixing,Code-Mixing
+A119,CQ33,Code-Mixing,Code-Mixing
+A120,CQ33,Code-Mixing,Code-Mixing
+A110,LQ53,Loan Words,Loan Words
+A111,LQ53,Loan Words,Loan Words
+A112,LQ53,Loan Words,Loan Words
+A113,LQ53,Loan Words,Loan Words
+A114,LQ53,Loan Words,Loan Words
+A115,LQ53,Standard Swahili,Loan Words
+A116,LQ53,Standard Swahili,Loan Words
+A117,LQ53,Loan Words,Loan Words
+A118,LQ53,Sheng,Loan Words
+A119,LQ53,Loan Words,Loan Words
+A120,LQ53,Loan Words,Loan Words
+A110,CQ12,Code-Mixing,Code-Mixing
+A111,CQ12,Code-Mixing,Code-Mixing
+A112,CQ12,Code-Mixing,Code-Mixing
+A113,CQ12,Code-Mixing,Code-Mixing
+A114,CQ12,Code-Mixing,Code-Mixing
+A115,CQ12,Code-Mixing,Code-Mixing
+A116,CQ12,Code-Mixing,Code-Mixing
+A117,CQ12,Code-Mixing,Code-Mixing
+A118,CQ12,Code-Mixing,Code-Mixing
+A119,CQ12,Code-Mixing,Code-Mixing
+A120,CQ12,Code-Mixing,Code-Mixing
+A110,TQ15,Tribal Lexicons,Tribal Lexicons
+A111,TQ15,Standard Swahili,Tribal Lexicons
+A112,TQ15,Tribal Lexicons,Tribal Lexicons
+A113,TQ15,Tribal Lexicons,Tribal Lexicons
+A114,TQ15,Standard Swahili,Tribal Lexicons
+A115,TQ15,Tribal Lexicons,Tribal Lexicons
+A116,TQ15,Tribal Lexicons,Tribal Lexicons
+A117,TQ15,Tribal Lexicons,Tribal Lexicons
+A118,TQ15,Tribal Lexicons,Tribal Lexicons
+A119,TQ15,Tribal Lexicons,Tribal Lexicons
+A120,TQ15,Tribal Lexicons,Tribal Lexicons
+A121,LQ16,Loan Words,Loan Words
+A122,LQ16,Loan Words,Loan Words
+A123,LQ16,Loan Words,Loan Words
+A124,LQ16,Loan Words,Loan Words
+A125,LQ16,Loan Words,Loan Words
+A126,LQ16,Loan Words,Loan Words
+A127,LQ16,Loan Words,Loan Words
+A128,LQ16,Loan Words,Loan Words
+A129,LQ16,Loan Words,Loan Words
+A120,LQ16,Loan Words,Loan Words
+A121,SQ2,Tribal Lexicons,Sheng
+A122,SQ2,Sheng,Sheng
+A123,SQ2,Standard Swahili,Sheng
+A124,SQ2,Tribal Lexicons,Sheng
+A125,SQ2,Standard Swahili,Sheng
+A126,SQ2,Tribal Lexicons,Sheng
+A127,SQ2,Standard Swahili,Sheng
+A128,SQ2,Sheng,Sheng
+A129,SQ2,Sheng,Sheng
+A120,SQ2,Standard Swahili,Sheng
+A121,LQ40,Loan Words,Loan Words
+A122,LQ40,Loan Words,Loan Words
+A123,LQ40,Loan Words,Loan Words
+A124,LQ40,Loan Words,Loan Words
+A125,LQ40,Loan Words,Loan Words
+A126,LQ40,Loan Words,Loan Words
+A127,LQ40,Loan Words,Loan Words
+A128,LQ40,Loan Words,Loan Words
+A129,LQ40,Loan Words,Loan Words
+A120,LQ40,Loan Words,Loan Words
+A121,CQ18,Code-Mixing,Code-Mixing
+A122,CQ18,Code-Mixing,Code-Mixing
+A123,CQ18,Code-Mixing,Code-Mixing
+A124,CQ18,Code-Mixing,Code-Mixing
+A125,CQ18,Code-Mixing,Code-Mixing
+A126,CQ18,Code-Mixing,Code-Mixing
+A127,CQ18,Code-Mixing,Code-Mixing
+A128,CQ18,Code-Mixing,Code-Mixing
+A129,CQ18,Loan Words,Code-Mixing
+A120,CQ18,Code-Mixing,Code-Mixing
+A121,LQ21,Loan Words,Loan Words
+A122,LQ21,Loan Words,Loan Words
+A123,LQ21,Loan Words,Loan Words
+A124,LQ21,Loan Words,Loan Words
+A125,LQ21,Loan Words,Loan Words
+A126,LQ21,Loan Words,Loan Words
+A127,LQ21,Loan Words,Loan Words
+A128,LQ21,Loan Words,Loan Words
+A129,LQ21,Loan Words,Loan Words
+A120,LQ21,Loan Words,Loan Words
+A121,CQ30,Code-Mixing,Code-Mixing
+A122,CQ30,Code-Mixing,Code-Mixing
+A123,CQ30,Code-Mixing,Code-Mixing
+A124,CQ30,Code-Mixing,Code-Mixing
+A125,CQ30,Code-Mixing,Code-Mixing
+A126,CQ30,Code-Mixing,Code-Mixing
+A127,CQ30,Code-Mixing,Code-Mixing
+A128,CQ30,Code-Mixing,Code-Mixing
+A129,CQ30,Code-Mixing,Code-Mixing
+A120,CQ30,Code-Mixing,Code-Mixing
+A121,LQ54,Code-Mixing,Loan Words
+A122,LQ54,Code-Mixing,Loan Words
+A123,LQ54,Loan Words,Loan Words
+A124,LQ54,Loan Words,Loan Words
+A125,LQ54,Code-Mixing,Loan Words
+A126,LQ54,Loan Words,Loan Words
+A127,LQ54,Code-Mixing,Loan Words
+A128,LQ54,Loan Words,Loan Words
+A129,LQ54,Loan Words,Loan Words
+A120,LQ54,Loan Words,Loan Words
+A121,CQ44,Code-Mixing,Code-Mixing
+A122,CQ44,Loan Words,Code-Mixing
+A123,CQ44,Loan Words,Code-Mixing
+A124,CQ44,Code-Mixing,Code-Mixing
+A125,CQ44,Code-Mixing,Code-Mixing
+A126,CQ44,Loan Words,Code-Mixing
+A127,CQ44,Loan Words,Code-Mixing
+A128,CQ44,Loan Words,Code-Mixing
+A129,CQ44,Loan Words,Code-Mixing
+A120,CQ44,Loan Words,Code-Mixing
+A121,TQ12,Sheng,Tribal Lexicons
+A122,TQ12,Tribal Lexicons,Tribal Lexicons
+A123,TQ12,Tribal Lexicons,Tribal Lexicons
+A124,TQ12,Tribal Lexicons,Tribal Lexicons
+A125,TQ12,Tribal Lexicons,Tribal Lexicons
+A126,TQ12,Tribal Lexicons,Tribal Lexicons
+A127,TQ12,Tribal Lexicons,Tribal Lexicons
+A128,TQ12,Tribal Lexicons,Tribal Lexicons
+A129,TQ12,Tribal Lexicons,Tribal Lexicons
+A120,TQ12,Tribal Lexicons,Tribal Lexicons
+A121,LQ24,Loan Words,Loan Words
+A122,LQ24,Loan Words,Loan Words
+A123,LQ24,Loan Words,Loan Words
+A124,LQ24,Loan Words,Loan Words
+A125,LQ24,Loan Words,Loan Words
+A126,LQ24,Loan Words,Loan Words
+A127,LQ24,Loan Words,Loan Words
+A128,LQ24,Loan Words,Loan Words
+A129,LQ24,Loan Words,Loan Words
+A120,LQ24,Loan Words,Loan Words
+A130,LQ25,Code-Mixing,Loan Words
+A131,LQ25,Code-Mixing,Loan Words
+A132,LQ25,Code-Mixing,Loan Words
+A133,LQ25,Loan Words,Loan Words
+A134,LQ25,Loan Words,Loan Words
+A135,LQ25,Code-Mixing,Loan Words
+A136,LQ25,Code-Mixing,Loan Words
+A137,LQ25,Code-Mixing,Loan Words
+A138,LQ25,Code-Mixing,Loan Words
+A139,LQ25,Loan Words,Loan Words
+A130,CQ20,Code-Mixing,Code-Mixing
+A131,CQ20,Code-Mixing,Code-Mixing
+A132,CQ20,Code-Mixing,Code-Mixing
+A133,CQ20,Code-Mixing,Code-Mixing
+A134,CQ20,Loan Words,Code-Mixing
+A135,CQ20,Code-Mixing,Code-Mixing
+A136,CQ20,Code-Mixing,Code-Mixing
+A137,CQ20,Code-Mixing,Code-Mixing
+A138,CQ20,Code-Mixing,Code-Mixing
+A139,CQ20,Code-Mixing,Code-Mixing
+A130,LQ47,Loan Words,Loan Words
+A131,LQ47,Loan Words,Loan Words
+A132,LQ47,Standard Swahili,Loan Words
+A133,LQ47,Loan Words,Loan Words
+A134,LQ47,Code-Mixing,Loan Words
+A135,LQ47,Loan Words,Loan Words
+A136,LQ47,Loan Words,Loan Words
+A137,LQ47,Loan Words,Loan Words
+A138,LQ47,Loan Words,Loan Words
+A139,LQ47,Loan Words,Loan Words
+A130,CQ43,Code-Mixing,Code-Mixing
+A131,CQ43,Code-Mixing,Code-Mixing
+A132,CQ43,Code-Mixing,Code-Mixing
+A133,CQ43,Code-Mixing,Code-Mixing
+A134,CQ43,Loan Words,Code-Mixing
+A135,CQ43,Code-Mixing,Code-Mixing
+A136,CQ43,Code-Mixing,Code-Mixing
+A137,CQ43,Code-Mixing,Code-Mixing
+A138,CQ43,Code-Mixing,Code-Mixing
+A139,CQ43,Code-Mixing,Code-Mixing
+A130,LQ26,Loan Words,Loan Words
+A131,LQ26,Sheng,Loan Words
+A132,LQ26,Tribal Lexicons,Loan Words
+A133,LQ26,Loan Words,Loan Words
+A134,LQ26,Code-Mixing,Loan Words
+A135,LQ26,Sheng,Loan Words
+A136,LQ26,Loan Words,Loan Words
+A137,LQ26,Loan Words,Loan Words
+A138,LQ26,Loan Words,Loan Words
+A139,LQ26,Loan Words,Loan Words
+A130,LQ58,Loan Words,Loan Words
+A131,LQ58,Loan Words,Loan Words
+A132,LQ58,Standard Swahili,Loan Words
+A133,LQ58,Loan Words,Loan Words
+A134,LQ58,Code-Mixing,Loan Words
+A135,LQ58,Loan Words,Loan Words
+A136,LQ58,Loan Words,Loan Words
+A137,LQ58,Loan Words,Loan Words
+A138,LQ58,Loan Words,Loan Words
+A139,LQ58,Loan Words,Loan Words
+A130,CQ21,Tribal Lexicons,Code-Mixing
+A131,CQ21,Code-Mixing,Code-Mixing
+A132,CQ21,Code-Mixing,Code-Mixing
+A133,CQ21,Code-Mixing,Code-Mixing
+A134,CQ21,Tribal Lexicons,Code-Mixing
+A135,CQ21,Code-Mixing,Code-Mixing
+A136,CQ21,Loan Words,Code-Mixing
+A137,CQ21,Code-Mixing,Code-Mixing
+A138,CQ21,Code-Mixing,Code-Mixing
+A139,CQ21,Code-Mixing,Code-Mixing
+A130,LQ30,Loan Words,Loan Words
+A131,LQ30,Loan Words,Loan Words
+A132,LQ30,Tribal Lexicons,Loan Words
+A133,LQ30,Loan Words,Loan Words
+A134,LQ30,Standard Swahili,Loan Words
+A135,LQ30,Loan Words,Loan Words
+A136,LQ30,Loan Words,Loan Words
+A137,LQ30,Loan Words,Loan Words
+A138,LQ30,Loan Words,Loan Words
+A139,LQ30,Loan Words,Loan Words
+A130,CQ51,Code-Mixing,Code-Mixing
+A131,CQ51,Code-Mixing,Code-Mixing
+A132,CQ51,Code-Mixing,Code-Mixing
+A133,CQ51,Code-Mixing,Code-Mixing
+A134,CQ51,Code-Mixing,Code-Mixing
+A135,CQ51,Code-Mixing,Code-Mixing
+A136,CQ51,Code-Mixing,Code-Mixing
+A137,CQ51,Code-Mixing,Code-Mixing
+A138,CQ51,Code-Mixing,Code-Mixing
+A139,CQ51,Code-Mixing,Code-Mixing
+A130,TQ13,Tribal Lexicons,Tribal Lexicons
+A131,TQ13,Standard Swahili,Tribal Lexicons
+A132,TQ13,Tribal Lexicons,Tribal Lexicons
+A133,TQ13,Tribal Lexicons,Tribal Lexicons
+A134,TQ13,Tribal Lexicons,Tribal Lexicons
+A135,TQ13,Standard Swahili,Tribal Lexicons
+A136,TQ13,Tribal Lexicons,Tribal Lexicons
+A137,TQ13,Tribal Lexicons,Tribal Lexicons
+A138,TQ13,Tribal Lexicons,Tribal Lexicons
+A139,TQ13,Tribal Lexicons,Tribal Lexicons
+A140,LQ37,Loan Words,Loan Words
+A141,LQ37,Loan Words,Loan Words
+A142,LQ37,Loan Words,Loan Words
+A143,LQ37,Standard Swahili,Loan Words
+A144,LQ37,Loan Words,Loan Words
+A145,LQ37,Tribal Lexicons,Loan Words
+A146,LQ37,Loan Words,Loan Words
+A147,LQ37,Loan Words,Loan Words
+A148,LQ37,Loan Words,Loan Words
+A149,LQ37,Loan Words,Loan Words
+A140,CQ32,Code-Mixing,Code-Mixing
+A141,CQ32,Code-Mixing,Code-Mixing
+A142,CQ32,Code-Mixing,Code-Mixing
+A143,CQ32,Loan Words,Code-Mixing
+A144,CQ32,Code-Mixing,Code-Mixing
+A145,CQ32,Code-Mixing,Code-Mixing
+A146,CQ32,Code-Mixing,Code-Mixing
+A147,CQ32,Code-Mixing,Code-Mixing
+A148,CQ32,Code-Mixing,Code-Mixing
+A149,CQ32,Sheng,Code-Mixing
+A140,TQ17,Tribal Lexicons,Tribal Lexicons
+A141,TQ17,Tribal Lexicons,Tribal Lexicons
+A142,TQ17,Tribal Lexicons,Tribal Lexicons
+A143,TQ17,Tribal Lexicons,Tribal Lexicons
+A144,TQ17,Sheng,Tribal Lexicons
+A145,TQ17,Tribal Lexicons,Tribal Lexicons
+A146,TQ17,Tribal Lexicons,Tribal Lexicons
+A147,TQ17,Tribal Lexicons,Tribal Lexicons
+A148,TQ17,Tribal Lexicons,Tribal Lexicons
+A149,TQ17,Tribal Lexicons,Tribal Lexicons
+A140,LQ43,Standard Swahili,Loan Words
+A141,LQ43,Standard Swahili,Loan Words
+A142,LQ43,Standard Swahili,Loan Words
+A143,LQ43,Standard Swahili,Loan Words
+A144,LQ43,Standard Swahili,Loan Words
+A145,LQ43,Standard Swahili,Loan Words
+A146,LQ43,Standard Swahili,Loan Words
+A147,LQ43,Standard Swahili,Loan Words
+A148,LQ43,Standard Swahili,Loan Words
+A149,LQ43,Standard Swahili,Loan Words
+A140,CQ23,Code-Mixing,Code-Mixing
+A141,CQ23,Code-Mixing,Code-Mixing
+A142,CQ23,Code-Mixing,Code-Mixing
+A143,CQ23,Loan Words,Code-Mixing
+A144,CQ23,Code-Mixing,Code-Mixing
+A145,CQ23,Code-Mixing,Code-Mixing
+A146,CQ23,Loan Words,Code-Mixing
+A147,CQ23,Code-Mixing,Code-Mixing
+A148,CQ23,Code-Mixing,Code-Mixing
+A149,CQ23,Sheng,Code-Mixing
+A140,LQ55,Loan Words,Loan Words
+A141,LQ55,Loan Words,Loan Words
+A142,LQ55,Loan Words,Loan Words
+A143,LQ55,Standard Swahili,Loan Words
+A144,LQ55,Loan Words,Loan Words
+A145,LQ55,Code-Mixing,Loan Words
+A146,LQ55,Loan Words,Loan Words
+A147,LQ55,Loan Words,Loan Words
+A148,LQ55,Loan Words,Loan Words
+A149,LQ55,Loan Words,Loan Words
+A140,CQ40,Code-Mixing,Code-Mixing
+A141,CQ40,Code-Mixing,Code-Mixing
+A142,CQ40,Code-Mixing,Code-Mixing
+A143,CQ40,Loan Words,Code-Mixing
+A144,CQ40,Code-Mixing,Code-Mixing
+A145,CQ40,Code-Mixing,Code-Mixing
+A146,CQ40,Loan Words,Code-Mixing
+A147,CQ40,Code-Mixing,Code-Mixing
+A148,CQ40,Code-Mixing,Code-Mixing
+A149,CQ40,Sheng,Code-Mixing
+A140,TQ24,Standard Swahili,Tribal Lexicons
+A141,TQ24,Tribal Lexicons,Tribal Lexicons
+A142,TQ24,Tribal Lexicons,Tribal Lexicons
+A143,TQ24,Standard Swahili,Tribal Lexicons
+A144,TQ24,Standard Swahili,Tribal Lexicons
+A145,TQ24,Standard Swahili,Tribal Lexicons
+A146,TQ24,Tribal Lexicons,Tribal Lexicons
+A147,TQ24,Standard Swahili,Tribal Lexicons
+A148,TQ24,Standard Swahili,Tribal Lexicons
+A149,TQ24,Standard Swahili,Tribal Lexicons
+A140,LQ44,Loan Words,Loan Words
+A141,LQ44,Loan Words,Loan Words
+A142,LQ44,Standard Swahili,Loan Words
+A143,LQ44,Standard Swahili,Loan Words
+A144,LQ44,Standard Swahili,Loan Words
+A145,LQ44,Standard Swahili,Loan Words
+A146,LQ44,Standard Swahili,Loan Words
+A147,LQ44,Loan Words,Loan Words
+A148,LQ44,Loan Words,Loan Words
+A149,LQ44,Loan Words,Loan Words
+A140,CQ27,Code-Mixing,Code-Mixing
+A141,CQ27,Code-Mixing,Code-Mixing
+A142,CQ27,Loan Words,Code-Mixing
+A143,CQ27,Loan Words,Code-Mixing
+A144,CQ27,Code-Mixing,Code-Mixing
+A145,CQ27,Code-Mixing,Code-Mixing
+A146,CQ27,Loan Words,Code-Mixing
+A147,CQ27,Code-Mixing,Code-Mixing
+A148,CQ27,Code-Mixing,Code-Mixing
+A149,CQ27,Sheng,Code-Mixing
+A150,TQ25,Standard Swahili,Tribal Lexicons
+A151,TQ25,Tribal Lexicons,Tribal Lexicons
+A152,TQ25,Standard Swahili,Tribal Lexicons
+A153,TQ25,Tribal Lexicons,Tribal Lexicons
+A154,TQ25,Tribal Lexicons,Tribal Lexicons
+A155,TQ25,Tribal Lexicons,Tribal Lexicons
+A156,TQ25,Tribal Lexicons,Tribal Lexicons
+A157,TQ25,Tribal Lexicons,Tribal Lexicons
+A158,TQ25,Tribal Lexicons,Tribal Lexicons
+A159,TQ25,Tribal Lexicons,Tribal Lexicons
+A160,TQ25,Tribal Lexicons,Tribal Lexicons
+A150,LQ46,Standard Swahili,Loan Words
+A151,LQ46,Standard Swahili,Loan Words
+A152,LQ46,Loan Words,Loan Words
+A153,LQ46,Standard Swahili,Loan Words
+A154,LQ46,Standard Swahili,Loan Words
+A155,LQ46,Standard Swahili,Loan Words
+A156,LQ46,Standard Swahili,Loan Words
+A157,LQ46,Loan Words,Loan Words
+A158,LQ46,Standard Swahili,Loan Words
+A159,LQ46,Standard Swahili,Loan Words
+A160,LQ46,Standard Swahili,Loan Words
+A150,CQ45,Code-Mixing,Code-Mixing
+A151,CQ45,Code-Mixing,Code-Mixing
+A152,CQ45,Code-Mixing,Code-Mixing
+A153,CQ45,Code-Mixing,Code-Mixing
+A154,CQ45,Loan Words,Code-Mixing
+A155,CQ45,Code-Mixing,Code-Mixing
+A156,CQ45,Code-Mixing,Code-Mixing
+A157,CQ45,Code-Mixing,Code-Mixing
+A158,CQ45,Code-Mixing,Code-Mixing
+A159,CQ45,Code-Mixing,Code-Mixing
+A160,CQ45,Code-Mixing,Code-Mixing
+A150,LQ50,Loan Words,Loan Words
+A151,LQ50,Loan Words,Loan Words
+A152,LQ50,Loan Words,Loan Words
+A153,LQ50,Loan Words,Loan Words
+A154,LQ50,Loan Words,Loan Words
+A155,LQ50,Loan Words,Loan Words
+A156,LQ50,Loan Words,Loan Words
+A157,LQ50,Loan Words,Loan Words
+A158,LQ50,Loan Words,Loan Words
+A159,LQ50,Loan Words,Loan Words
+A160,LQ50,Loan Words,Loan Words
+A150,CQ47,Code-Mixing,Code-Mixing
+A151,CQ47,Code-Mixing,Code-Mixing
+A152,CQ47,Code-Mixing,Code-Mixing
+A153,CQ47,Code-Mixing,Code-Mixing
+A154,CQ47,Loan Words,Code-Mixing
+A155,CQ47,Code-Mixing,Code-Mixing
+A156,CQ47,Code-Mixing,Code-Mixing
+A157,CQ47,Code-Mixing,Code-Mixing
+A158,CQ47,Code-Mixing,Code-Mixing
+A159,CQ47,Code-Mixing,Code-Mixing
+A160,CQ47,Code-Mixing,Code-Mixing
+A150,LQ56,Loan Words,Loan Words
+A151,LQ56,Loan Words,Loan Words
+A152,LQ56,Loan Words,Loan Words
+A153,LQ56,Loan Words,Loan Words
+A154,LQ56,Loan Words,Loan Words
+A155,LQ56,Loan Words,Loan Words
+A156,LQ56,Loan Words,Loan Words
+A157,LQ56,Loan Words,Loan Words
+A158,LQ56,Loan Words,Loan Words
+A159,LQ56,Loan Words,Loan Words
+A160,LQ56,Loan Words,Loan Words
+A150,CQ62,Code-Mixing,Code-Mixing
+A151,CQ62,Code-Mixing,Code-Mixing
+A152,CQ62,Code-Mixing,Code-Mixing
+A153,CQ62,Code-Mixing,Code-Mixing
+A154,CQ62,Loan Words,Code-Mixing
+A155,CQ62,Code-Mixing,Code-Mixing
+A156,CQ62,Code-Mixing,Code-Mixing
+A157,CQ62,Code-Mixing,Code-Mixing
+A158,CQ62,Code-Mixing,Code-Mixing
+A159,CQ62,Code-Mixing,Code-Mixing
+A160,CQ62,Code-Mixing,Code-Mixing
+A150,LQ59,Loan Words,Loan Words
+A151,LQ59,Loan Words,Loan Words
+A152,LQ59,Loan Words,Loan Words
+A153,LQ59,Loan Words,Loan Words
+A154,LQ59,Loan Words,Loan Words
+A155,LQ59,Loan Words,Loan Words
+A156,LQ59,Loan Words,Loan Words
+A157,LQ59,Loan Words,Loan Words
+A158,LQ59,Sheng,Loan Words
+A159,LQ59,Loan Words,Loan Words
+A160,LQ59,Loan Words,Loan Words
+A150,CQ59,Code-Mixing,Code-Mixing
+A151,CQ59,Code-Mixing,Code-Mixing
+A152,CQ59,Code-Mixing,Code-Mixing
+A153,CQ59,Code-Mixing,Code-Mixing
+A154,CQ59,Loan Words,Code-Mixing
+A155,CQ59,Code-Mixing,Code-Mixing
+A156,CQ59,Code-Mixing,Code-Mixing
+A157,CQ59,Code-Mixing,Code-Mixing
+A158,CQ59,Code-Mixing,Code-Mixing
+A159,CQ59,Code-Mixing,Code-Mixing
+A160,CQ59,Code-Mixing,Code-Mixing
+A150,LQ64,Loan Words,Loan Words
+A151,LQ64,Loan Words,Loan Words
+A152,LQ64,Loan Words,Loan Words
+A153,LQ64,Loan Words,Loan Words
+A154,LQ64,Standard Swahili,Loan Words
+A155,LQ64,Loan Words,Loan Words
+A156,LQ64,Loan Words,Loan Words
+A157,LQ64,Loan Words,Loan Words
+A158,LQ64,Standard Swahili,Loan Words
+A159,LQ64,Loan Words,Loan Words
+A160,LQ64,Standard Swahili,Loan Words
+A161,LQ60,Loan Words,Loan Words
+A162,LQ60,Tribal Lexicons,Loan Words
+A163,LQ60,Loan Words,Loan Words
+A164,LQ60,Standard Swahili,Loan Words
+A165,LQ60,Standard Swahili,Loan Words
+A166,LQ60,Loan Words,Loan Words
+A167,LQ60,Loan Words,Loan Words
+A168,LQ60,Standard Swahili,Loan Words
+A169,LQ60,Loan Words,Loan Words
+A170,LQ60,Loan Words,Loan Words
+A171,LQ60,Loan Words,Loan Words
+A161,CQ48,Code-Mixing,Code-Mixing
+A162,CQ48,Loan Words,Code-Mixing
+A163,CQ48,Code-Mixing,Code-Mixing
+A164,CQ48,Code-Mixing,Code-Mixing
+A165,CQ48,Loan Words,Code-Mixing
+A166,CQ48,Code-Mixing,Code-Mixing
+A167,CQ48,Code-Mixing,Code-Mixing
+A168,CQ48,Code-Mixing,Code-Mixing
+A169,CQ48,Code-Mixing,Code-Mixing
+A170,CQ48,Loan Words,Code-Mixing
+A171,CQ48,Code-Mixing,Code-Mixing
+A161,LQ63,Loan Words,Loan Words
+A162,LQ63,Standard Swahili,Loan Words
+A163,LQ63,Sheng,Loan Words
+A164,LQ63,Loan Words,Loan Words
+A165,LQ63,Standard Swahili,Loan Words
+A166,LQ63,Loan Words,Loan Words
+A167,LQ63,Loan Words,Loan Words
+A168,LQ63,Loan Words,Loan Words
+A169,LQ63,Loan Words,Loan Words
+A170,LQ63,Standard Swahili,Loan Words
+A171,LQ63,Loan Words,Loan Words
+A161,CQ60,Code-Mixing,Code-Mixing
+A162,CQ60,Loan Words,Code-Mixing
+A163,CQ60,Code-Mixing,Code-Mixing
+A164,CQ60,Code-Mixing,Code-Mixing
+A165,CQ60,Loan Words,Code-Mixing
+A166,CQ60,Code-Mixing,Code-Mixing
+A167,CQ60,Code-Mixing,Code-Mixing
+A168,CQ60,Code-Mixing,Code-Mixing
+A169,CQ60,Code-Mixing,Code-Mixing
+A170,CQ60,Loan Words,Code-Mixing
+A171,CQ60,Code-Mixing,Code-Mixing
+A161,LQ66,Loan Words,Loan Words
+A162,LQ66,Standard Swahili,Loan Words
+A163,LQ66,Loan Words,Loan Words
+A164,LQ66,Loan Words,Loan Words
+A165,LQ66,Code-Mixing,Loan Words
+A166,LQ66,Loan Words,Loan Words
+A167,LQ66,Loan Words,Loan Words
+A168,LQ66,Loan Words,Loan Words
+A169,LQ66,Loan Words,Loan Words
+A170,LQ66,Standard Swahili,Loan Words
+A171,LQ66,Loan Words,Loan Words
+A161,CQ54,Code-Mixing,Code-Mixing
+A162,CQ54,Loan Words,Code-Mixing
+A163,CQ54,Code-Mixing,Code-Mixing
+A164,CQ54,Code-Mixing,Code-Mixing
+A165,CQ54,Loan Words,Code-Mixing
+A166,CQ54,Code-Mixing,Code-Mixing
+A167,CQ54,Code-Mixing,Code-Mixing
+A168,CQ54,Code-Mixing,Code-Mixing
+A169,CQ54,Code-Mixing,Code-Mixing
+A170,CQ54,Loan Words,Code-Mixing
+A171,CQ54,Code-Mixing,Code-Mixing
+A161,LQ69,Standard Swahili,Loan Words
+A162,LQ69,Standard Swahili,Loan Words
+A163,LQ69,Standard Swahili,Loan Words
+A164,LQ69,Standard Swahili,Loan Words
+A165,LQ69,Standard Swahili,Loan Words
+A166,LQ69,Standard Swahili,Loan Words
+A167,LQ69,Standard Swahili,Loan Words
+A168,LQ69,Standard Swahili,Loan Words
+A169,LQ69,Standard Swahili,Loan Words
+A170,LQ69,Standard Swahili,Loan Words
+A171,LQ69,Loan Words,Loan Words
+A161,TQ26,Tribal Lexicons,Tribal Lexicons
+A162,TQ26,Tribal Lexicons,Tribal Lexicons
+A163,TQ26,Tribal Lexicons,Tribal Lexicons
+A164,TQ26,Tribal Lexicons,Tribal Lexicons
+A165,TQ26,Tribal Lexicons,Tribal Lexicons
+A166,TQ26,Tribal Lexicons,Tribal Lexicons
+A167,TQ26,Tribal Lexicons,Tribal Lexicons
+A168,TQ26,Sheng,Tribal Lexicons
+A169,TQ26,Tribal Lexicons,Tribal Lexicons
+A170,TQ26,Standard Swahili,Tribal Lexicons
+A171,TQ26,Tribal Lexicons,Tribal Lexicons
+A161,LQ61,Loan Words,Loan Words
+A162,LQ61,Standard Swahili,Loan Words
+A163,LQ61,Loan Words,Loan Words
+A164,LQ61,Loan Words,Loan Words
+A165,LQ61,Code-Mixing,Loan Words
+A166,LQ61,Loan Words,Loan Words
+A167,LQ61,Loan Words,Loan Words
+A168,LQ61,Loan Words,Loan Words
+A169,LQ61,Loan Words,Loan Words
+A170,LQ61,Code-Mixing,Loan Words
+A171,LQ61,Loan Words,Loan Words
+A161,CQ49,Code-Mixing,Code-Mixing
+A162,CQ49,Standard Swahili,Code-Mixing
+A163,CQ49,Code-Mixing,Code-Mixing
+A164,CQ49,Code-Mixing,Code-Mixing
+A165,CQ49,Loan Words,Code-Mixing
+A166,CQ49,Code-Mixing,Code-Mixing
+A167,CQ49,Code-Mixing,Code-Mixing
+A168,CQ49,Code-Mixing,Code-Mixing
+A169,CQ49,Code-Mixing,Code-Mixing
+A170,CQ49,Loan Words,Code-Mixing
+A171,CQ49,Code-Mixing,Code-Mixing
+A172,LQ67,Standard Swahili,Loan Words
+A173,LQ67,Loan Words,Loan Words
+A174,LQ67,Loan Words,Loan Words
+A175,LQ67,Loan Words,Loan Words
+A176,LQ67,Loan Words,Loan Words
+A177,LQ67,Loan Words,Loan Words
+A178,LQ67,Loan Words,Loan Words
+A179,LQ67,Loan Words,Loan Words
+A180,LQ67,Standard Swahili,Loan Words
+A181,LQ67,Loan Words,Loan Words
+A182,LQ67,Loan Words,Loan Words
+A172,CQ50,Loan Words,Code-Mixing
+A173,CQ50,Code-Mixing,Code-Mixing
+A174,CQ50,Code-Mixing,Code-Mixing
+A175,CQ50,Code-Mixing,Code-Mixing
+A176,CQ50,Code-Mixing,Code-Mixing
+A177,CQ50,Code-Mixing,Code-Mixing
+A178,CQ50,Code-Mixing,Code-Mixing
+A179,CQ50,Code-Mixing,Code-Mixing
+A180,CQ50,Code-Mixing,Code-Mixing
+A181,CQ50,Code-Mixing,Code-Mixing
+A182,CQ50,Code-Mixing,Code-Mixing
+A172,LQ65,Code-Mixing,Loan Words
+A173,LQ65,Loan Words,Loan Words
+A174,LQ65,Loan Words,Loan Words
+A175,LQ65,Loan Words,Loan Words
+A176,LQ65,Loan Words,Loan Words
+A177,LQ65,Loan Words,Loan Words
+A178,LQ65,Loan Words,Loan Words
+A179,LQ65,Loan Words,Loan Words
+A180,LQ65,Loan Words,Loan Words
+A181,LQ65,Loan Words,Loan Words
+A182,LQ65,Loan Words,Loan Words
+A172,CQ61,Loan Words,Code-Mixing
+A173,CQ61,Code-Mixing,Code-Mixing
+A174,CQ61,Loan Words,Code-Mixing
+A175,CQ61,Loan Words,Code-Mixing
+A176,CQ61,Code-Mixing,Code-Mixing
+A177,CQ61,Code-Mixing,Code-Mixing
+A178,CQ61,Code-Mixing,Code-Mixing
+A179,CQ61,Code-Mixing,Code-Mixing
+A180,CQ61,Code-Mixing,Code-Mixing
+A181,CQ61,Code-Mixing,Code-Mixing
+A182,CQ61,Code-Mixing,Code-Mixing
+A172,LQ70,Code-Mixing,Loan Words
+A173,LQ70,Loan Words,Loan Words
+A174,LQ70,Loan Words,Loan Words
+A175,LQ70,Loan Words,Loan Words
+A176,LQ70,Loan Words,Loan Words
+A177,LQ70,Loan Words,Loan Words
+A178,LQ70,Loan Words,Loan Words
+A179,LQ70,Loan Words,Loan Words
+A180,LQ70,Loan Words,Loan Words
+A181,LQ70,Loan Words,Loan Words
+A182,LQ70,Loan Words,Loan Words
+A172,SQ4,Standard Swahili,Sheng
+A173,SQ4,Sheng,Sheng
+A174,SQ4,Code-Mixing,Sheng
+A175,SQ4,Sheng,Sheng
+A176,SQ4,Standard Swahili,Sheng
+A177,SQ4,Sheng,Sheng
+A178,SQ4,Sheng,Sheng
+A179,SQ4,Sheng,Sheng
+A180,SQ4,Sheng,Sheng
+A181,SQ4,Sheng,Sheng
+A182,SQ4,Sheng,Sheng
+A172,CQ58,Loan Words,Code-Mixing
+A173,CQ58,Code-Mixing,Code-Mixing
+A174,CQ58,Loan Words,Code-Mixing
+A175,CQ58,Loan Words,Code-Mixing
+A176,CQ58,Code-Mixing,Code-Mixing
+A177,CQ58,Code-Mixing,Code-Mixing
+A178,CQ58,Code-Mixing,Code-Mixing
+A179,CQ58,Code-Mixing,Code-Mixing
+A180,CQ58,Code-Mixing,Code-Mixing
+A181,CQ58,Code-Mixing,Code-Mixing
+A182,CQ58,Code-Mixing,Code-Mixing
+A172,LQ68,Code-Mixing,Loan Words
+A173,LQ68,Loan Words,Loan Words
+A174,LQ68,Loan Words,Loan Words
+A175,LQ68,Loan Words,Loan Words
+A176,LQ68,Loan Words,Loan Words
+A177,LQ68,Loan Words,Loan Words
+A178,LQ68,Loan Words,Loan Words
+A179,LQ68,Loan Words,Loan Words
+A180,LQ68,Standard Swahili,Loan Words
+A181,LQ68,Loan Words,Loan Words
+A182,LQ68,Loan Words,Loan Words
+A172,CQ55,Loan Words,Code-Mixing
+A173,CQ55,Code-Mixing,Code-Mixing
+A174,CQ55,Loan Words,Code-Mixing
+A175,CQ55,Loan Words,Code-Mixing
+A176,CQ55,Code-Mixing,Code-Mixing
+A177,CQ55,Code-Mixing,Code-Mixing
+A178,CQ55,Code-Mixing,Code-Mixing
+A179,CQ55,Code-Mixing,Code-Mixing
+A180,CQ55,Code-Mixing,Code-Mixing
+A181,CQ55,Code-Mixing,Code-Mixing
+A182,CQ55,Code-Mixing,Code-Mixing
+A172,TQ28,Tribal Lexicons,Tribal Lexicons
+A173,TQ28,Tribal Lexicons,Tribal Lexicons
+A174,TQ28,Tribal Lexicons,Tribal Lexicons
+A175,TQ28,Tribal Lexicons,Tribal Lexicons
+A176,TQ28,Tribal Lexicons,Tribal Lexicons
+A177,TQ28,Tribal Lexicons,Tribal Lexicons
+A178,TQ28,Tribal Lexicons,Tribal Lexicons
+A179,TQ28,Tribal Lexicons,Tribal Lexicons
+A180,TQ28,Tribal Lexicons,Tribal Lexicons
+A181,TQ28,Tribal Lexicons,Tribal Lexicons
+A182,TQ28,Tribal Lexicons,Tribal Lexicons
