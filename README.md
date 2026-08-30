@@ -15,3 +15,8 @@ T-CLA contains 170 cultural-linguistic artifacts (CLAs) organized into four high
 - **Tribal Lexicons** — Lexical variation influenced by speakers’ ethnolinguistic backgrounds and local languages, capturing community-specific vocabulary, pronunciation, or spelling patterns.
 
 These categories represent distinct but potentially co-occurring forms of sociolinguistic variation. T-CLA links these culturally grounded forms of language use to observable linguistic features, enabling their use in annotation, model evaluation, error analysis, and fairness analysis.
+
+
+## Repository Contents
+
+This repository contains the resources and code associated with the T-CLA framework and analyses presented in the paper.
