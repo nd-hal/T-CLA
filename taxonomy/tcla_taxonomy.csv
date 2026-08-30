@@ -1,0 +1,171 @@
+artifact_id,artifact,category
+TCLA001,Sekta,Loan Words
+TCLA002,Presha,Loan Words
+TCLA003,Historia,Loan Words
+TCLA004,Simu,Loan Words
+TCLA005,Hospitali,Loan Words
+TCLA006,Mashine,Loan Words
+TCLA007,Famasia,Loan Words
+TCLA008,Sayansi,Loan Words
+TCLA009,Inteneti,Loan Words
+TCLA010,Technolojia,Loan Words
+TCLA011,Nesi,Loan Words
+TCLA012,Redio,Loan Words
+TCLA013,Televisheni,Loan Words
+TCLA014,Kliniki,Loan Words
+TCLA015,Homoni,Loan Words
+TCLA016,Antibiotiki,Loan Words
+TCLA017,Programu,Loan Words
+TCLA018,Kompyuta,Loan Words
+TCLA019,Data,Loan Words
+TCLA020,Ripoti,Loan Words
+TCLA021,Skuli,Loan Words
+TCLA022,Misuli,Loan Words
+TCLA023,Ofisi,Loan Words
+TCLA024,Gramu,Loan Words
+TCLA025,Kampeni,Loan Words
+TCLA026,Virusi,Loan Words
+TCLA027,Magazeti,Loan Words
+TCLA028,Kalori,Loan Words
+TCLA029,Kisaikolojia,Loan Words
+TCLA030,Kisayansi,Loan Words
+TCLA031,Kesi,Loan Words
+TCLA032,Taulo,Loan Words
+TCLA033,Timu,Loan Words
+TCLA034,Kampuni,Loan Words
+TCLA035,Kitabu,Loan Words
+TCLA036,Switi,Loan Words
+TCLA037,Pesa,Loan Words
+TCLA038,Baiskeli,Loan Words
+TCLA039,Kambi,Loan Words
+TCLA040,Shule,Loan Words
+TCLA041,Shati,Loan Words
+TCLA042,Rekodi,Loan Words
+TCLA043,Safari,Loan Words
+TCLA044,Roboti,Loan Words
+TCLA045,Familia,Loan Words
+TCLA046,Mammografia,Loan Words
+TCLA047,Neti,Loan Words
+TCLA048,Nimonia,Loan Words
+TCLA049,Polio,Loan Words
+TCLA050,Kaunti,Loan Words
+TCLA051,Oparesheni,Loan Words
+TCLA052,Leseni,Loan Words
+TCLA053,Karoti,Loan Words
+TCLA054,Bandeji,Loan Words
+TCLA055,Tumbaku,Loan Words
+TCLA056,Kafeini,Loan Words
+TCLA057,Semina,Loan Words
+TCLA058,Sensa,Loan Words
+TCLA059,Soka,Loan Words
+TCLA060,Chaneli,Loan Words
+TCLA061,Biolojia,Loan Words
+TCLA062,Kemikali,Loan Words
+TCLA063,Saikolojia,Loan Words
+TCLA064,Hela,Loan Words
+TCLA065,Technologia,Loan Words
+TCLA066,Dakitari,Loan Words
+TCLA067,Kontena,Loan Words
+TCLA068,Lebo,Loan Words
+TCLA069,Biologia,Loan Words
+TCLA070,Sekondari,Loan Words
+TCLA071,Protini,Loan Words
+TCLA072,Dawa za kutesa,Sheng Usage
+TCLA073,Kugonjeka,Sheng Usage
+TCLA074,Dawa ya ushago,Sheng Usage
+TCLA075,Ushago,Sheng Usage
+TCLA076,boda boda,Sheng Usage
+TCLA077,Shindano,Tribal Lexicons
+TCLA078,Mashindano,Tribal Lexicons
+TCLA079,Sungumsa,Tribal Lexicons
+TCLA080,Shinda,Tribal Lexicons
+TCLA081,Dagitari,Tribal Lexicons
+TCLA082,Nawesa,Tribal Lexicons
+TCLA083,Ujunguzi,Tribal Lexicons
+TCLA084,Ungojwa,Tribal Lexicons
+TCLA085,Wahuguzi,Tribal Lexicons
+TCLA086,Yagu,Tribal Lexicons
+TCLA087,Kubolesha,Tribal Lexicons
+TCLA088,Kusaindia,Tribal Lexicons
+TCLA089,Shidano,Tribal Lexicons
+TCLA090,Sinikizo,Tribal Lexicons
+TCLA091,Kuuliswa,Tribal Lexicons
+TCLA092,Ndawa,Tribal Lexicons
+TCLA093,Mawaitha,Tribal Lexicons
+TCLA094,Kuhuzu,Tribal Lexicons
+TCLA095,Mgojwa,Tribal Lexicons
+TCLA096,Kikamilivu,Tribal Lexicons
+TCLA097,Kuodoa,Tribal Lexicons
+TCLA098,Kitoleni,Tribal Lexicons
+TCLA099,Madibabu,Tribal Lexicons
+TCLA100,Sidano,Tribal Lexicons
+TCLA101,Magojwa,Tribal Lexicons
+TCLA102,Kukambiliana,Tribal Lexicons
+TCLA103,Huongopa,Tribal Lexicons
+TCLA104,Nimeungua,Tribal Lexicons
+TCLA105,Usaindizi,Tribal Lexicons
+TCLA106,Alaka,Tribal Lexicons
+TCLA107,Ghalama,Tribal Lexicons
+TCLA108,Private,Code-Mixing
+TCLA109,Kumtrust,Code-Mixing
+TCLA110,completely,Code-Mixing
+TCLA111,exprerience,Code-Mixing
+TCLA112,hospital,Code-Mixing
+TCLA113,Social media,Code-Mixing
+TCLA114,Health,Code-Mixing
+TCLA115,Doctor,Code-Mixing
+TCLA116,Always,Code-Mixing
+TCLA117,Sometimes,Code-Mixing
+TCLA118,Scan,Code-Mixing
+TCLA119,Form,Code-Mixing
+TCLA120,Diagnose,Code-Mixing
+TCLA121,Data,Code-Mixing
+TCLA122,Test,Code-Mixing
+TCLA123,Cancer,Code-Mixing
+TCLA124,Diabetes,Code-Mixing
+TCLA125,Google,Code-Mixing
+TCLA126,Xray,Code-Mixing
+TCLA127,First aid,Code-Mixing
+TCLA128,Supplement,Code-Mixing
+TCLA129,Internet,Code-Mixing
+TCLA130,But,Code-Mixing
+TCLA131,Family planning,Code-Mixing
+TCLA132,Checkups,Code-Mixing
+TCLA133,Medication,Code-Mixing
+TCLA134,Expiry date,Code-Mixing
+TCLA135,Bacteria,Code-Mixing
+TCLA136,Testing,Code-Mixing
+TCLA137,Caregiver,Code-Mixing
+TCLA138,Mammograms,Code-Mixing
+TCLA139,Radiation,Code-Mixing
+TCLA140,hangediagonise clinically,Code-Mixing
+TCLA141,Tumour,Code-Mixing
+TCLA142,Asthmatic,Code-Mixing
+TCLA143,colleagues,Code-Mixing
+TCLA144,nurse,Code-Mixing
+TCLA145,bakteria ya tonsil,Code-Mixing
+TCLA146,chemist,Code-Mixing
+TCLA147,Yoga,Code-Mixing
+TCLA148,Sector,Code-Mixing
+TCLA149,Theatre,Code-Mixing
+TCLA150,Machine,Code-Mixing
+TCLA151,University,Code-Mixing
+TCLA152,Smart phone,Code-Mixing
+TCLA153,youtube,Code-Mixing
+TCLA154,Translator,Code-Mixing
+TCLA155,Kuzitrust,Code-Mixing
+TCLA156,End results,Code-Mixing
+TCLA157,akanijudge,Code-Mixing
+TCLA158,Office,Code-Mixing
+TCLA159,Flu,Code-Mixing
+TCLA160,Biochemistry,Code-Mixing
+TCLA161,laboratory,Code-Mixing
+TCLA162,chatgpt,Code-Mixing
+TCLA163,Dispensary,Code-Mixing
+TCLA164,Article,Code-Mixing
+TCLA165,Calcium,Code-Mixing
+TCLA166,Pressure,Code-Mixing
+TCLA167,Insurance,Code-Mixing
+TCLA168,Virus,Code-Mixing
+TCLA169,Tuberculosis,Code-Mixing
+TCLA170,Regimens,Code-Mixing
