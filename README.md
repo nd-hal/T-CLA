@@ -21,6 +21,7 @@ These categories represent distinct but potentially co-occurring forms of sociol
 
 This repository contains the resources and code associated with the T-CLA framework and analyses presented in the paper.
 
+```
 📂 Taxonomy/         # Contains human annotation data and identified CLAs
 📂 Scripts/          # Python scripts for...
 📜 .gitattributes    # Git configuration file
@@ -28,3 +29,4 @@ This repository contains the resources and code associated with the T-CLA framew
 📜 poetry.lock       # Dependency lock file for reproducibility
 📜 pyproject.toml    # Configuration for managing dependencies with Poetry
 📜 requirements.txt  # Contains a list of dependencies required to run the LLM-based scripts
+```
