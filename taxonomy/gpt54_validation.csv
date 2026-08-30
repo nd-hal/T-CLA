@@ -1,0 +1,171 @@
+item_id,target_artifact,gold_label,gpt_label,model,prompt_version
+Set1_Item1,sekta,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set1_Item2,simu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set1_Item3,prowess,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set1_Item4,dawa ya ushago,Sheng,Sheng Usage,gpt-5.4,tcla-human-matched-v1
+Set1_Item5,wahuguzi,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set1_Item6,switi,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set1_Item7,madibabu,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set1_Item8,data,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set1_Item9,caregiver,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set1_Item10,homoni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set2_Item1,huongopa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set2_Item2,article,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set2_Item3,hospitali,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set2_Item4,end results,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set2_Item5,nimeungua,Tribal Lexicons,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set2_Item6,historia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set2_Item7,internet,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set2_Item8,kliniki,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set2_Item9,mawaitha,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set2_Item10,mammografia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set3_Item1,kusaindia,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set3_Item2,hospitalini,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set3_Item3,bacteria,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set3_Item4,nimeivia,Sheng,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set3_Item5,dakitari,Loan Words,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set3_Item6,hospital,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set3_Item7,madagtari,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set3_Item8,kisayansi,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set3_Item9,completely,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set3_Item10,familia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item1,x-ray,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item2,kampeni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item3,Nawesa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set4_Item4,mammograms,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item5,programu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item6,testing,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set4_Item7,lebo,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set4_Item8,shindano,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set4_Item9,hangediagonise,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set4_Item10,kurekodi,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set5_Item1,ndawa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set5_Item2,leseni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set5_Item3,first aid,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set5_Item4,nesi,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set5_Item5,kuhuzu,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set5_Item6,Biochemistry,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set5_Item7,presha,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set5_Item8,ghalama,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set5_Item9,secondari,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set5_Item10,social media,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set6_Item1,kambi,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set6_Item2,family planning,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set6_Item3,ujunguzi,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set6_Item4,Mashine,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set6_Item5,colleagues,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set6_Item6,kalori,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set6_Item7,clinically,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set6_Item8,kontena,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set6_Item9,mgojwa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set6_Item10,Doctor,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set7_Item1,misuli,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set7_Item2,expiry date,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set7_Item3,teknolojia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set7_Item4,shidano,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set7_Item5,neti,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set7_Item6,akanijudge,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set7_Item7,semina,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set7_Item8,tumour,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set7_Item9,kukambiliana,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set7_Item10,supplement ya calcium,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set8_Item1,smart phone,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set8_Item2,technologia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set8_Item3,nikisungumsa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set8_Item4,dispensary,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set8_Item5,kitabu,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set8_Item6,kugoogle,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set8_Item7,kisaikolojia,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set8_Item8,madibabu,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set8_Item9,protini,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set8_Item10,dawa za kutesa,Sheng,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set9_Item1,ofisi,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item2,scan,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item3,dagitari,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set9_Item4,famasia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item5,radiation,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item6,ripoti,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item7,kuzitrust,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set9_Item8,kuuliswa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set9_Item9,timu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set9_Item10,private,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set10_Item1,intaneti,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set10_Item2,sometimes,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set10_Item3,shinda,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set10_Item4,kesi,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set10_Item5,kumtrust,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set10_Item6,safari,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set10_Item7,yoga,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set10_Item8,virusi,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set10_Item9,experience,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set10_Item10,sinikizo,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set11_Item1,redio,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set11_Item2,Community Health Promoter,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set11_Item3,ungojwa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set11_Item4,timu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set11_Item5,cancer,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set11_Item6,simu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set11_Item7,"I always make sure whenever I feel ill, nauliza doctor wangu for the best medication to be used",Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set11_Item8,nimonia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set11_Item9,Always,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set11_Item10,usaindizi,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set12_Item1,televisheni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item2,kugonjeka,Sheng,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set12_Item3,kampuni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item4,form,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item5,antibiotiki,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item6,but,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set12_Item7,polio,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item8,bakteria ya tonsil,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set12_Item9,yagu,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set12_Item10,kompyuta,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set13_Item1,data,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set13_Item2,tests,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set13_Item3,shati,Loan Words,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set13_Item4,nurse,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set13_Item5,skuli,Loan Words,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set13_Item6,karoti,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set13_Item7,labolatory,Code-Mixing,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set13_Item8,gramu,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set13_Item9,google translator,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set13_Item10,kubolesha,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set14_Item1,taulo,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set14_Item2,regular checkups,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set14_Item3,alaka,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set14_Item4,pesa,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set14_Item5,diabetes,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set14_Item6,kaunti,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set14_Item7,asthmatic,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set14_Item8,kikamilivu,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set14_Item9,baiskeli,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set14_Item10,clinic,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item1,kuodoa,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set15_Item2,shuleni,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set15_Item3,chemist,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item4,roboti,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item5,sector,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item6,oparesheni,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item7,regimens,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set15_Item8,bandeji,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item9,bandage,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set15_Item10,soka,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set16_Item1,tumbaku,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set16_Item2,theatre,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set16_Item3,sensa,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set16_Item4,insurance,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set16_Item5,ofisini,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set16_Item6,offices,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set16_Item7,hela,Loan Words,Sheng Usage,gpt-5.4,tcla-human-matched-v1
+Set16_Item8,kitoleni,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
+Set16_Item9,kafeini,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set16_Item10,machine,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set17_Item1,kemikali,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set17_Item2,university,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set17_Item3,chaneli,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set17_Item4,virus,Code-Mixing,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set17_Item5,biologia,Loan Words,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set17_Item6,boda boda,Sheng,Loan Words,gpt-5.4,tcla-human-matched-v1
+Set17_Item7,pressure,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set17_Item8,kisaikolojia,Loan Words,Standard Swahili,gpt-5.4,tcla-human-matched-v1
+Set17_Item9,flu,Code-Mixing,Code-Mixing,gpt-5.4,tcla-human-matched-v1
+Set17_Item10,sidano,Tribal Lexicons,Tribal Lexicons,gpt-5.4,tcla-human-matched-v1
