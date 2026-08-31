@@ -30,3 +30,29 @@ This repository contains the resources and code associated with the T-CLA framew
 📜 pyproject.toml    # Configuration for managing dependencies with Poetry
 📜 requirements.txt  # Contains a list of dependencies required to run the LLM-based scripts
 ```
+
+---
+# Setup & Installation
+
+This project uses **Poetry** for dependency management.
+
+1. Download pipx: https://pipx.pypa.io/stable/installation/
+2. Install poetry: https://python-poetry.org/docs/#installing-with-pipx
+3. To generate figure 4:
+
+```{python}
+poetry run python code/confusion_matrices.py
+```
+
+To generate figure 5:
+
+```{python}
+poetry run python code/error_analysis.py
+```
+
+
+To generate figure 6:
+
+```{python}
+poetry run python code/subgroup_fairness_analysis.py
+```
