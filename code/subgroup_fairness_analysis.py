@@ -88,7 +88,7 @@ plot_auc_vs_fairness(
     metric_prefix='DI',
     title_prefix='AUC vs DI',
     xlabel='DI',
-    output_path='./Results/DI_Kamba_Kikuyu.png'
+    output_path='./Plots/DI_Kamba_Kikuyu.png'
 )
 
 # Figure 2. AUC vs ∆xAUC
@@ -98,5 +98,5 @@ plot_auc_vs_fairness(
     metric_prefix='∆xAUC',
     title_prefix='AUC vs ∆xAUC',
     xlabel='∆xAUC',
-    output_path='./Results/∆xAUC_Kamba_Kikuyu.png'
+    output_path='./Plots/∆xAUC_Kamba_Kikuyu.png'
 )
