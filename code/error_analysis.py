@@ -234,5 +234,5 @@ fig.legend(
 )
 
 plt.tight_layout(rect=[0, 0, 1, 0.92])
-plt.savefig("./Results/error_analysis.png", dpi=1000, bbox_inches='tight')
+plt.savefig("./Plots/error_analysis.png", dpi=1000, bbox_inches='tight')
 plt.show()
