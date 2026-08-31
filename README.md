@@ -39,6 +39,7 @@ This project uses **Poetry** for dependency management.
 2. Install poetry: https://python-poetry.org/docs/#installing-with-pipx
 
 ---
+# Generate Figures
 To generate figure 4:
 
 ```{python}
