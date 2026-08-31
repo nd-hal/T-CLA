@@ -22,7 +22,7 @@ These categories represent distinct but potentially co-occurring forms of sociol
 This repository contains the resources and code associated with the T-CLA framework and analyses presented in the paper.
 
 ```
-📂 Data/         # Contains human annotation data and identified CLAs
+📂 taxonomy/         # Contains human annotation data and identified CLAs
 📂 code/          # Python scripts
 📜 .gitattributes    # Git configuration file
 📜 README.md         # This file
