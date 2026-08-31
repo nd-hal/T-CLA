@@ -37,7 +37,9 @@ This project uses **Poetry** for dependency management.
 
 1. Download pipx: https://pipx.pypa.io/stable/installation/
 2. Install poetry: https://python-poetry.org/docs/#installing-with-pipx
-3. To generate figure 4:
+
+---
+To generate figure 4:
 
 ```{python}
 poetry run python code/confusion_matrices.py
@@ -55,7 +57,7 @@ To generate figure 6:
 ```{python}
 poetry run python code/subgroup_fairness_analysis.py
 ```
-
+---
 ## Citation
 
 If you use this work, please cite:
