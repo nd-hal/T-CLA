@@ -9,7 +9,7 @@ data_path = (
 )
 
 png_path = (
-    "./Results/EAA_AEAA_Confusion_Matrices.png"
+    "./Plots/EAA_AEAA_Confusion_Matrices.png"
 )
 
 
