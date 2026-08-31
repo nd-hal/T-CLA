@@ -5,11 +5,11 @@ import matplotlib.pyplot as plt
 
 # File paths
 data_path = (
-    "Data/CLA_Taxonomy_Validation_Data.csv"
+    "./taxonomy/CLA_Taxonomy_Validation_Data.csv"
 )
 
 png_path = (
-    "Results/EAA_AEAA_Confusion_Matrices.png"
+    "./Results/EAA_AEAA_Confusion_Matrices.png"
 )
 
 
