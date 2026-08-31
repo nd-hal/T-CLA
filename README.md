@@ -56,3 +56,23 @@ To generate figure 6:
 ```{python}
 poetry run python code/subgroup_fairness_analysis.py
 ```
+
+## Citation
+
+If you use this work, please cite:
+
+
+---
+# Contributors
+
+Kezia Oketch  
+John Lalor      
+Ahmed Abbasi    
+
+# Acknowledgments
+
+This research is supported by the University of Notre Dame's Human-centered Analytics Lab (HAL) and NSF.
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE` for details.
