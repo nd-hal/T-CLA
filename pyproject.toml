@@ -17,7 +17,7 @@ llama-cpp-python = "^0.3.7"
 huggingface-hub = "^0.28.1"
 
 [tool.poetry.scripts]
-run-r-analysis = "scripts.r_analysis:main"
+run-r-analysis = "code.r_analysis:main"
 
 [build-system]
 requires = ["poetry-core"]
